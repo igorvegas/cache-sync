@@ -1,31 +1,83 @@
 {
-  "lastUpdated": "2026-11-14T10:41:27.201Z",
+  "lastUpdated": "2026-11-14T14:41:11.391Z",
   "outages": [
     {
       "id": "dh6hxd",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП.",
       "partial": true,
-      "progressPercent": 23,
+      "progressPercent": 100,
       "start": "2026-11-14T11:25:00+02:00",
-      "restore": "2026-11-14T17:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-14T16:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "14.11.2026 11:25",
-      "rawRestore": "14.11.2026 17:00"
+      "rawRestore": "14.11.2026 16:00"
     },
     {
       "id": "gcf889",
       "number": 2,
       "address": "ЛЕСІ УКРАЇНКИ ПРОСП.",
       "partial": true,
-      "progressPercent": 23,
+      "progressPercent": 100,
       "start": "2026-11-14T11:25:00+02:00",
-      "restore": "2026-11-14T17:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-14T16:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "14.11.2026 11:25",
-      "rawRestore": "14.11.2026 17:00"
+      "rawRestore": "14.11.2026 16:00"
+    },
+    {
+      "id": "8nkj0p",
+      "number": 1,
+      "address": "ІНГЛЕЗІ ВУЛ., А. Корольова",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-14T15:00:00+02:00",
+      "restore": "2026-11-14T16:30:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "14.11.2026 15:00",
+      "rawRestore": "14.11.2026 16:30"
+    },
+    {
+      "id": "1c7qt8b",
+      "number": 1,
+      "address": "1-А СОРТУВАЛЬНА ВУЛ.,",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-14T14:45:00+02:00",
+      "restore": "2026-11-14T15:40:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "14.11.2026 14:45",
+      "rawRestore": "14.11.2026 15:40"
+    },
+    {
+      "id": "1ubps1d",
+      "number": 2,
+      "address": "МИКОЛАЇВСЬКА ДОРОГА ВУЛ.",
+      "partial": true,
+      "progressPercent": 100,
+      "start": "2026-11-14T14:45:00+02:00",
+      "restore": "2026-11-14T15:40:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "14.11.2026 14:45",
+      "rawRestore": "14.11.2026 15:40"
+    },
+    {
+      "id": "bybnk8",
+      "number": 3,
+      "address": "ЛУЗАНІВСЬКА ВУЛ.",
+      "partial": true,
+      "progressPercent": 100,
+      "start": "2026-11-14T14:45:00+02:00",
+      "restore": "2026-11-14T15:40:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "14.11.2026 14:45",
+      "rawRestore": "14.11.2026 15:40"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-14T10:41:27.201Z"
+    "at": "2026-11-14T14:41:11.391Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
