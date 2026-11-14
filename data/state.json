@@ -1,51 +1,12 @@
 {
-  "lastUpdated": "2026-11-14T16:44:11.566Z",
+  "lastUpdated": "2026-11-14T17:48:24.189Z",
   "outages": [
-    {
-      "id": "dh6hxd",
-      "number": 1,
-      "address": "ШЕВЧЕНКА ПРОСП.",
-      "partial": true,
-      "progressPercent": 100,
-      "start": "2026-11-14T11:25:00+02:00",
-      "restore": "2026-11-14T16:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "14.11.2026 11:25",
-      "rawRestore": "14.11.2026 16:00"
-    },
-    {
-      "id": "gcf889",
-      "number": 2,
-      "address": "ЛЕСІ УКРАЇНКИ ПРОСП.",
-      "partial": true,
-      "progressPercent": 100,
-      "start": "2026-11-14T11:25:00+02:00",
-      "restore": "2026-11-14T16:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "14.11.2026 11:25",
-      "rawRestore": "14.11.2026 16:00"
-    },
-    {
-      "id": "8nkj0p",
-      "number": 1,
-      "address": "ІНГЛЕЗІ ВУЛ., А. Корольова",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-14T15:00:00+02:00",
-      "restore": "2026-11-14T16:30:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "14.11.2026 15:00",
-      "rawRestore": "14.11.2026 16:30"
-    },
     {
       "id": "elbf5h",
       "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., Пішонівська,Пішонівський пров.К.Ніщинськ-частк.",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 39,
       "start": "2026-11-14T17:45:00+02:00",
       "restore": "2026-11-14T23:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +19,7 @@
       "number": 2,
       "address": "МАНЕЖНА ВУЛ., Мечникова-частк.",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 39,
       "start": "2026-11-14T17:45:00+02:00",
       "restore": "2026-11-14T23:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +32,7 @@
       "number": 1,
       "address": "ВАПНЯРКА СЕЛО, фонтанка",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 19,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +45,7 @@
       "number": 2,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 19,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-14T16:44:11.566Z"
+    "at": "2026-11-14T17:48:24.189Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
