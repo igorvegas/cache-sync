@@ -1,6 +1,41 @@
 {
-  "lastUpdated": null,
-  "outages": [],
-  "lastUpdateStatus": null,
-  "meta": { "schemaVersion": "1.0.0" }
+  "lastUpdated": "2026-11-14T10:41:27.201Z",
+  "outages": [
+    {
+      "id": "dh6hxd",
+      "number": 1,
+      "address": "ШЕВЧЕНКА ПРОСП.",
+      "partial": true,
+      "progressPercent": 23,
+      "start": "2026-11-14T11:25:00+02:00",
+      "restore": "2026-11-14T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "14.11.2026 11:25",
+      "rawRestore": "14.11.2026 17:00"
+    },
+    {
+      "id": "gcf889",
+      "number": 2,
+      "address": "ЛЕСІ УКРАЇНКИ ПРОСП.",
+      "partial": true,
+      "progressPercent": 23,
+      "start": "2026-11-14T11:25:00+02:00",
+      "restore": "2026-11-14T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "14.11.2026 11:25",
+      "rawRestore": "14.11.2026 17:00"
+    }
+  ],
+  "lastUpdateStatus": {
+    "status": "parsed",
+    "ok": true,
+    "code": 200,
+    "message": null,
+    "at": "2026-11-14T10:41:27.201Z"
+  },
+  "meta": {
+    "schemaVersion": "1.0.0"
+  }
 }
