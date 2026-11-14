@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T20:01:07.285Z",
+  "lastUpdated": "2026-11-14T20:05:48.468Z",
   "outages": [
     {
       "id": "elbf5h",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ВАПНЯРКА СЕЛО, фонтанка",
       "partial": false,
-      "progressPercent": 48,
+      "progressPercent": 49,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 48,
+      "progressPercent": 49,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-14T20:01:07.285Z"
+    "at": "2026-11-14T20:05:48.468Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
