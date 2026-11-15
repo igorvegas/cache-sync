@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T15:00:34.831Z",
+  "lastUpdated": "2026-11-15T15:16:10.893Z",
   "outages": [
     {
       "id": "1frkd70",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/4",
       "partial": false,
-      "progressPercent": 50,
+      "progressPercent": 53,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-15T22:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T15:00:34.831Z"
+    "at": "2026-11-15T15:16:10.893Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
