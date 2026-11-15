@@ -1,18 +1,31 @@
 {
-  "lastUpdated": "2026-11-15T16:15:52.288Z",
+  "lastUpdated": "2026-11-15T16:31:27.820Z",
   "outages": [
     {
       "id": "1frkd70",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/4",
       "partial": false,
-      "progressPercent": 63,
+      "progressPercent": 65,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-15T22:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "15.11.2026 12:00",
       "rawRestore": "15.11.2026 22:00"
+    },
+    {
+      "id": "2z4pee",
+      "number": 1,
+      "address": "ДАЛЬНІ МЛИННИ РАЙОН, вул.Стовпова,Бугайовка,Виїзна,Новікова",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-15T18:20:00+02:00",
+      "restore": "2026-11-16T00:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "15.11.2026 18:20",
+      "rawRestore": "16.11.2026 00:00"
     },
     {
       "id": "1h87ahj",
@@ -33,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T16:15:52.288Z"
+    "at": "2026-11-15T16:31:27.820Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
