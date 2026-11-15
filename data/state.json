@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T13:01:37.394Z",
+  "lastUpdated": "2026-11-15T13:15:55.749Z",
   "outages": [
     {
       "id": "1frkd70",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/4",
       "partial": false,
-      "progressPercent": 30,
+      "progressPercent": 33,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-15T22:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "БОГДАНА ХМЕЛЬНИЦЬКОГО ВУЛ., частково Запорызька, Болгарська",
       "partial": false,
-      "progressPercent": 61,
+      "progressPercent": 64,
       "start": "2026-11-15T10:20:00+02:00",
       "restore": "2026-11-15T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,13 +32,13 @@
       "number": 1,
       "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 100,
       "start": "2026-11-14T23:20:00+02:00",
-      "restore": "2026-11-15T18:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-15T15:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "14.11.2026 23:20",
-      "rawRestore": "15.11.2026 18:00"
+      "rawRestore": "15.11.2026 15:00"
     }
   ],
   "lastUpdateStatus": {
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T13:01:37.394Z"
+    "at": "2026-11-15T13:15:55.749Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
