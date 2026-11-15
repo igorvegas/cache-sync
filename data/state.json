@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-14T23:45:55.547Z",
+  "lastUpdated": "2026-11-15T00:01:18.657Z",
   "outages": [
     {
       "id": "byxnw0",
       "number": 1,
       "address": "ВАПНЯРКА СЕЛО, фонтанка",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 100,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 100,
       "start": "2026-11-14T18:20:00+02:00",
       "restore": "2026-11-15T02:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
       "partial": false,
-      "progressPercent": 18,
+      "progressPercent": 20,
       "start": "2026-11-14T23:20:00+02:00",
       "restore": "2026-11-15T13:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-14T23:45:55.547Z"
+    "at": "2026-11-15T00:01:18.657Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
