@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T09:01:11.879Z",
+  "lastUpdated": "2026-11-15T09:16:14.794Z",
   "outages": [
     {
       "id": "1s49zua",
       "number": 1,
       "address": "СТОВПОВА ВУЛ., 4",
       "partial": false,
-      "progressPercent": 24,
+      "progressPercent": 30,
       "start": "2026-11-15T10:05:00+02:00",
       "restore": "2026-11-15T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "БОГДАНА ХМЕЛЬНИЦЬКОГО ВУЛ., частково Запорызька, Болгарська",
       "partial": false,
-      "progressPercent": 9,
+      "progressPercent": 12,
       "start": "2026-11-15T10:20:00+02:00",
       "restore": "2026-11-15T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
       "partial": false,
-      "progressPercent": 86,
+      "progressPercent": 87,
       "start": "2026-11-14T23:20:00+02:00",
       "restore": "2026-11-15T13:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T09:01:11.879Z"
+    "at": "2026-11-15T09:16:14.794Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
