@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T23:01:11.314Z",
+  "lastUpdated": "2026-11-15T23:16:19.648Z",
   "outages": [
     {
       "id": "a6sj33",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/1-10/9",
       "partial": false,
-      "progressPercent": 81,
+      "progressPercent": 83,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-16T04:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T23:01:11.314Z"
+    "at": "2026-11-15T23:16:19.648Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
