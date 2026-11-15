@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T15:45:50.412Z",
+  "lastUpdated": "2026-11-15T16:01:15.007Z",
   "outages": [
     {
       "id": "1frkd70",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/4",
       "partial": false,
-      "progressPercent": 58,
+      "progressPercent": 60,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-15T22:00:00+02:00",
       "restoreKind": "planned",
@@ -26,19 +26,6 @@
       "restoreColor": null,
       "rawStart": "15.11.2026 10:20",
       "rawRestore": "15.11.2026 16:20"
-    },
-    {
-      "id": "1m1kczw",
-      "number": 1,
-      "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-14T23:20:00+02:00",
-      "restore": "2026-11-15T15:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "14.11.2026 23:20",
-      "rawRestore": "15.11.2026 15:00"
     }
   ],
   "lastUpdateStatus": {
@@ -46,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T15:45:50.412Z"
+    "at": "2026-11-15T16:01:15.007Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
