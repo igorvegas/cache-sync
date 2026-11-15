@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T11:31:29.134Z",
+  "lastUpdated": "2026-11-15T11:45:53.034Z",
   "outages": [
     {
       "id": "1s49zua",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/5",
       "partial": false,
-      "progressPercent": 15,
+      "progressPercent": 18,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-15T22:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "БОГДАНА ХМЕЛЬНИЦЬКОГО ВУЛ., частково Запорызька, Болгарська",
       "partial": false,
-      "progressPercent": 42,
+      "progressPercent": 45,
       "start": "2026-11-15T10:20:00+02:00",
       "restore": "2026-11-15T18:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T11:31:29.134Z"
+    "at": "2026-11-15T11:45:53.034Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
