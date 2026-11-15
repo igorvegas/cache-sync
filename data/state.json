@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T11:16:13.398Z",
+  "lastUpdated": "2026-11-15T11:31:29.134Z",
   "outages": [
     {
       "id": "1s49zua",
@@ -15,11 +15,24 @@
       "rawRestore": "15.11.2026 11:30"
     },
     {
+      "id": "1l62qrx",
+      "number": 1,
+      "address": "ШЕВЧЕНКА ПРОСП., 10/5",
+      "partial": false,
+      "progressPercent": 15,
+      "start": "2026-11-15T12:00:00+02:00",
+      "restore": "2026-11-15T22:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "15.11.2026 12:00",
+      "rawRestore": "15.11.2026 22:00"
+    },
+    {
       "id": "1h87ahj",
       "number": 1,
       "address": "БОГДАНА ХМЕЛЬНИЦЬКОГО ВУЛ., частково Запорызька, Болгарська",
       "partial": false,
-      "progressPercent": 38,
+      "progressPercent": 42,
       "start": "2026-11-15T10:20:00+02:00",
       "restore": "2026-11-15T18:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T11:16:13.398Z"
+    "at": "2026-11-15T11:31:29.134Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
