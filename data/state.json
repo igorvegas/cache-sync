@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T04:45:47.636Z",
+  "lastUpdated": "2026-11-15T05:01:08.016Z",
   "outages": [
     {
       "id": "1m1kczw",
       "number": 1,
       "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
       "partial": false,
-      "progressPercent": 54,
+      "progressPercent": 56,
       "start": "2026-11-14T23:20:00+02:00",
       "restore": "2026-11-15T13:00:00+02:00",
       "restoreKind": "planned",
@@ -20,7 +20,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T04:45:47.636Z"
+    "at": "2026-11-15T05:01:08.016Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
