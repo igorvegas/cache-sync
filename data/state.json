@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-15T08:16:10.043Z",
+  "lastUpdated": "2026-11-15T08:31:30.950Z",
   "outages": [
     {
       "id": "1s49zua",
       "number": 1,
       "address": "СТОВПОВА ВУЛ., 4",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 11,
       "start": "2026-11-15T10:05:00+02:00",
       "restore": "2026-11-15T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ІНГЛЕЗІ ВУЛ., А. Корольова частково",
       "partial": false,
-      "progressPercent": 80,
+      "progressPercent": 82,
       "start": "2026-11-14T23:20:00+02:00",
       "restore": "2026-11-15T13:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-15T08:16:10.043Z"
+    "at": "2026-11-15T08:31:30.950Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
