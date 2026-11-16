@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T20:31:15.896Z",
+  "lastUpdated": "2026-11-16T20:46:48.374Z",
   "outages": [
     {
       "id": "fx2g4s",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
       "partial": false,
-      "progressPercent": 77,
+      "progressPercent": 83,
       "start": "2026-11-16T19:20:00+02:00",
       "restore": "2026-11-16T23:30:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T20:31:15.896Z"
+    "at": "2026-11-16T20:46:48.374Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
