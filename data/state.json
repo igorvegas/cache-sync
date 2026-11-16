@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T17:17:14.195Z",
+  "lastUpdated": "2026-11-16T17:31:52.117Z",
   "outages": [
     {
       "id": "akuknx",
@@ -45,13 +45,26 @@
       "number": 1,
       "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
       "partial": false,
-      "progressPercent": 21,
+      "progressPercent": 26,
       "start": "2026-11-16T18:00:00+02:00",
       "restore": "2026-11-16T23:59:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "16.11.2026 18:00",
       "rawRestore": "16.11.2026 23:59"
+    },
+    {
+      "id": "1j5yil3",
+      "number": 1,
+      "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
+      "partial": false,
+      "progressPercent": 5,
+      "start": "2026-11-16T19:20:00+02:00",
+      "restore": "2026-11-16T23:30:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "16.11.2026 19:20",
+      "rawRestore": "16.11.2026 23:30"
     }
   ],
   "lastUpdateStatus": {
@@ -59,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T17:17:14.195Z"
+    "at": "2026-11-16T17:31:52.117Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
