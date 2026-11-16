@@ -1,31 +1,18 @@
 {
-  "lastUpdated": "2026-11-16T00:15:56.097Z",
+  "lastUpdated": "2026-11-16T00:31:35.472Z",
   "outages": [
     {
       "id": "a6sj33",
       "number": 1,
       "address": "ШЕВЧЕНКА ПРОСП., 10/1-10/9",
       "partial": false,
-      "progressPercent": 89,
+      "progressPercent": 91,
       "start": "2026-11-15T12:00:00+02:00",
       "restore": "2026-11-16T04:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "15.11.2026 12:00",
       "rawRestore": "16.11.2026 04:00"
-    },
-    {
-      "id": "1877ew2",
-      "number": 1,
-      "address": "СЛОБІДКА РАЙОН ВУЛ.",
-      "partial": true,
-      "progressPercent": 100,
-      "start": "2026-11-15T22:10:00+02:00",
-      "restore": "2026-11-15T23:20:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "15.11.2026 22:10",
-      "rawRestore": "15.11.2026 23:20"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +20,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T00:15:56.097Z"
+    "at": "2026-11-16T00:31:35.472Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
