@@ -1,12 +1,39 @@
 {
-  "lastUpdated": "2026-11-16T04:16:27.494Z",
-  "outages": [],
+  "lastUpdated": "2026-11-16T08:31:01.952Z",
+  "outages": [
+    {
+      "id": "1w0xlen",
+      "number": 1,
+      "address": "КРИЖАНІВКА Ж/М, прив.сектор",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-16T10:15:00+02:00",
+      "restore": "2026-11-16T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "16.11.2026 10:15",
+      "rawRestore": "16.11.2026 18:00"
+    },
+    {
+      "id": "1h7csbx",
+      "number": 2,
+      "address": "СЕМЕНА ПАЛІЯ ВУЛ., 25 та кор.,139-151а",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-16T10:15:00+02:00",
+      "restore": "2026-11-16T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "16.11.2026 10:15",
+      "rawRestore": "16.11.2026 18:00"
+    }
+  ],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T04:16:27.494Z"
+    "at": "2026-11-16T08:31:01.952Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
