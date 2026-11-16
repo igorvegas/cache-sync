@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T17:01:34.662Z",
+  "lastUpdated": "2026-11-16T17:17:14.195Z",
   "outages": [
     {
       "id": "akuknx",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
       "partial": false,
-      "progressPercent": 17,
+      "progressPercent": 21,
       "start": "2026-11-16T18:00:00+02:00",
       "restore": "2026-11-16T23:59:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T17:01:34.662Z"
+    "at": "2026-11-16T17:17:14.195Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
