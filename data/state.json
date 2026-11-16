@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T17:45:54.711Z",
+  "lastUpdated": "2026-11-16T18:01:36.026Z",
   "outages": [
     {
       "id": "1w0xlen",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
       "partial": false,
-      "progressPercent": 29,
+      "progressPercent": 34,
       "start": "2026-11-16T18:00:00+02:00",
       "restore": "2026-11-16T23:59:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 17,
       "start": "2026-11-16T19:20:00+02:00",
       "restore": "2026-11-16T23:30:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T17:45:54.711Z"
+    "at": "2026-11-16T18:01:36.026Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
