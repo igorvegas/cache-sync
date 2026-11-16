@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-11-16T17:31:52.117Z",
+  "lastUpdated": "2026-11-16T17:45:54.711Z",
   "outages": [
-    {
-      "id": "akuknx",
-      "number": 1,
-      "address": "ВУЗІВСЬКИЙ РАЙОН,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-16T11:20:00+02:00",
-      "restore": "2026-11-16T16:45:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "16.11.2026 11:20",
-      "rawRestore": "16.11.2026 16:45"
-    },
     {
       "id": "1w0xlen",
       "number": 1,
@@ -45,7 +32,7 @@
       "number": 1,
       "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
       "partial": false,
-      "progressPercent": 26,
+      "progressPercent": 29,
       "start": "2026-11-16T18:00:00+02:00",
       "restore": "2026-11-16T23:59:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +45,7 @@
       "number": 1,
       "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 10,
       "start": "2026-11-16T19:20:00+02:00",
       "restore": "2026-11-16T23:30:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T17:31:52.117Z"
+    "at": "2026-11-16T17:45:54.711Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
