@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-16T10:15:55.301Z",
+  "lastUpdated": "2026-11-16T10:31:24.705Z",
   "outages": [
     {
       "id": "akuknx",
       "number": 1,
       "address": "ВУЗІВСЬКИЙ РАЙОН,",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 25,
       "start": "2026-11-16T11:20:00+02:00",
       "restore": "2026-11-16T16:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "КРИЖАНІВКА Ж/М, прив.сектор",
       "partial": false,
-      "progressPercent": 26,
+      "progressPercent": 29,
       "start": "2026-11-16T10:15:00+02:00",
       "restore": "2026-11-16T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "СЕМЕНА ПАЛІЯ ВУЛ., 25 та кор.,139-151а",
       "partial": false,
-      "progressPercent": 26,
+      "progressPercent": 29,
       "start": "2026-11-16T10:15:00+02:00",
       "restore": "2026-11-16T18:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T10:15:55.301Z"
+    "at": "2026-11-16T10:31:24.705Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
