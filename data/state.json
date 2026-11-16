@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T16:09:40.368Z",
+  "lastUpdated": "2026-11-16T16:16:41.795Z",
   "outages": [
     {
       "id": "akuknx",
@@ -39,6 +39,19 @@
       "restoreColor": null,
       "rawStart": "16.11.2026 10:15",
       "rawRestore": "16.11.2026 18:00"
+    },
+    {
+      "id": "fx2g4s",
+      "number": 1,
+      "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
+      "partial": false,
+      "progressPercent": 5,
+      "start": "2026-11-16T18:00:00+02:00",
+      "restore": "2026-11-16T23:59:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "16.11.2026 18:00",
+      "rawRestore": "16.11.2026 23:59"
     }
   ],
   "lastUpdateStatus": {
@@ -46,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T16:09:40.368Z"
+    "at": "2026-11-16T16:16:41.795Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
