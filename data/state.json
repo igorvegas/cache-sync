@@ -1,38 +1,12 @@
 {
-  "lastUpdated": "2026-11-16T18:46:40.017Z",
+  "lastUpdated": "2026-11-16T19:01:17.703Z",
   "outages": [
-    {
-      "id": "1w0xlen",
-      "number": 1,
-      "address": "КРИЖАНІВКА Ж/М, прив.сектор",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-16T10:15:00+02:00",
-      "restore": "2026-11-16T18:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "16.11.2026 10:15",
-      "rawRestore": "16.11.2026 18:00"
-    },
-    {
-      "id": "1h7csbx",
-      "number": 2,
-      "address": "СЕМЕНА ПАЛІЯ ВУЛ., 25 та кор.,139-151а",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-16T10:15:00+02:00",
-      "restore": "2026-11-16T18:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "16.11.2026 10:15",
-      "rawRestore": "16.11.2026 18:00"
-    },
     {
       "id": "fx2g4s",
       "number": 1,
       "address": "БАЛТСЬКА ВУЛ., 1-10 Пересипська вул",
       "partial": false,
-      "progressPercent": 46,
+      "progressPercent": 50,
       "start": "2026-11-16T18:00:00+02:00",
       "restore": "2026-11-16T23:59:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +19,7 @@
       "number": 1,
       "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
       "partial": false,
-      "progressPercent": 35,
+      "progressPercent": 41,
       "start": "2026-11-16T19:20:00+02:00",
       "restore": "2026-11-16T23:30:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T18:46:40.017Z"
+    "at": "2026-11-16T19:01:17.703Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
