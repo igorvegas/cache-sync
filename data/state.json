@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-11-17T13:01:21.271Z",
+  "lastUpdated": "2026-11-17T13:15:55.889Z",
   "outages": [
     {
-      "id": "krate6",
+      "id": "1mx1joh",
       "number": 1,
+      "address": "МИХАЙЛІВСЬКА ПЛ., Середня",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-17T11:15:00+02:00",
+      "restore": "2026-11-17T15:05:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "17.11.2026 11:15",
+      "rawRestore": "17.11.2026 15:05"
+    },
+    {
+      "id": "krate6",
+      "number": 2,
       "address": "БАЛКІВСЬКА ВУЛ., 115-183,Головковська",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 100,
       "start": "2026-11-17T11:15:00+02:00",
-      "restore": "2026-11-17T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-17T15:05:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 11:15",
-      "rawRestore": "17.11.2026 16:00"
+      "rawRestore": "17.11.2026 15:05"
     },
     {
       "id": "28l0eh",
-      "number": 2,
+      "number": 3,
       "address": "СКІСНА ВУЛ., 20-90, Картамишевська",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 100,
       "start": "2026-11-17T11:15:00+02:00",
-      "restore": "2026-11-17T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-17T15:05:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 11:15",
-      "rawRestore": "17.11.2026 16:00"
-    },
-    {
-      "id": "1mx1joh",
-      "number": 3,
-      "address": "МИХАЙЛІВСЬКА ПЛ., Середня",
-      "partial": false,
-      "progressPercent": 79,
-      "start": "2026-11-17T11:15:00+02:00",
-      "restore": "2026-11-17T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 11:15",
-      "rawRestore": "17.11.2026 16:00"
+      "rawRestore": "17.11.2026 15:05"
     },
     {
       "id": "1qed9gt",
       "number": 1,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 25,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T18:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 2,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 25,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T18:00:00+02:00",
       "restoreKind": "planned",
@@ -67,11 +67,11 @@
       "rawRestore": "17.11.2026 18:00"
     },
     {
-      "id": "19r5uzj",
+      "id": "c4jn5r",
       "number": 1,
-      "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
-      "partial": false,
-      "progressPercent": 19,
+      "address": "ЛУЦЬКА ВУЛ.",
+      "partial": true,
+      "progressPercent": 23,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -80,11 +80,11 @@
       "rawRestore": "17.11.2026 20:00"
     },
     {
-      "id": "c4jn5r",
+      "id": "19r5uzj",
       "number": 2,
-      "address": "ЛУЦЬКА ВУЛ.",
-      "partial": true,
-      "progressPercent": 19,
+      "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
+      "partial": false,
+      "progressPercent": 23,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 3,
       "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 23,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T13:01:21.271Z"
+    "at": "2026-11-17T13:15:55.889Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
