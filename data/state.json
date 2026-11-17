@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T22:48:04.435Z",
+  "lastUpdated": "2026-11-17T23:01:38.176Z",
   "outages": [
     {
       "id": "uikg2y",
       "number": 1,
       "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 68,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 68,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 68,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 4,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 68,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 5,
       "address": "МАЯЧНИЙ ПРОВ.,",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 68,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., частично",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 26,
       "start": "2026-11-17T23:59:00+02:00",
       "restore": "2026-11-18T04:00:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T22:48:04.435Z"
+    "at": "2026-11-17T23:01:38.176Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
