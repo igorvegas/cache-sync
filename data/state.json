@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T20:16:14.783Z",
+  "lastUpdated": "2026-11-17T20:31:04.914Z",
   "outages": [
     {
       "id": "fo2yo5",
       "number": 1,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 51,
+      "progressPercent": 52,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 51,
+      "progressPercent": 52,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 51,
+      "progressPercent": 52,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 4,
       "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 51,
+      "progressPercent": 52,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СЛОБІДКА РАЙОН ВУЛ., частично",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 89,
       "start": "2026-11-17T18:25:00+02:00",
       "restore": "2026-11-17T23:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T20:16:14.783Z"
+    "at": "2026-11-17T20:31:04.914Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
