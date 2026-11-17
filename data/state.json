@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T12:01:08.885Z",
+  "lastUpdated": "2026-11-17T12:15:56.264Z",
   "outages": [
     {
       "id": "krate6",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 115-183,Головковська",
       "partial": false,
-      "progressPercent": 58,
+      "progressPercent": 63,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "СКІСНА ВУЛ., 20-90, Картамишевська",
       "partial": false,
-      "progressPercent": 58,
+      "progressPercent": 63,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "МИХАЙЛІВСЬКА ПЛ., Середня",
       "partial": false,
-      "progressPercent": 58,
+      "progressPercent": 63,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "ЛУЦЬКА ВУЛ.",
       "partial": true,
-      "progressPercent": 3,
+      "progressPercent": 7,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 2,
       "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
       "partial": false,
-      "progressPercent": 3,
+      "progressPercent": 7,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 3,
       "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
       "partial": false,
-      "progressPercent": 3,
+      "progressPercent": 7,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T12:01:08.885Z"
+    "at": "2026-11-17T12:15:56.264Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
