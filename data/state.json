@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T21:01:18.001Z",
+  "lastUpdated": "2026-11-17T21:15:52.024Z",
   "outages": [
     {
       "id": "fo2yo5",
       "number": 1,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 57,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 57,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 57,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 4,
       "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 57,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -61,8 +61,8 @@
       "progressPercent": 100,
       "start": "2026-11-17T18:25:00+02:00",
       "restore": "2026-11-17T23:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 18:25",
       "rawRestore": "17.11.2026 23:00"
     }
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T21:01:18.001Z"
+    "at": "2026-11-17T21:15:52.024Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
