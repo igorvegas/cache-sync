@@ -1,25 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T16:15:47.521Z",
+  "lastUpdated": "2026-11-17T16:31:10.126Z",
   "outages": [
     {
-      "id": "fo2yo5",
-      "number": 1,
-      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
-      "partial": false,
-      "progressPercent": 41,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-17T23:55:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "17.11.2026 23:55"
-    },
-    {
       "id": "1qed9gt",
-      "number": 2,
+      "number": 1,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 41,
+      "progressPercent": 44,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T23:55:00+02:00",
       "restoreKind": "planned",
@@ -29,10 +16,10 @@
     },
     {
       "id": "14mbv8p",
-      "number": 3,
+      "number": 2,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 41,
+      "progressPercent": 44,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T23:55:00+02:00",
       "restoreKind": "planned",
@@ -41,43 +28,69 @@
       "rawRestore": "17.11.2026 23:55"
     },
     {
-      "id": "c4jn5r",
-      "number": 1,
-      "address": "ЛУЦЬКА ВУЛ.",
-      "partial": true,
-      "progressPercent": 72,
-      "start": "2026-11-17T13:50:00+02:00",
-      "restore": "2026-11-17T20:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 13:50",
-      "rawRestore": "17.11.2026 20:00"
-    },
-    {
-      "id": "2jmpp7",
-      "number": 2,
-      "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
+      "id": "fo2yo5",
+      "number": 3,
+      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 72,
-      "start": "2026-11-17T13:50:00+02:00",
-      "restore": "2026-11-17T20:00:00+02:00",
+      "progressPercent": 44,
+      "start": "2026-11-17T14:20:00+02:00",
+      "restore": "2026-11-17T23:55:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 13:50",
-      "rawRestore": "17.11.2026 20:00"
+      "rawStart": "17.11.2026 14:20",
+      "rawRestore": "17.11.2026 23:55"
     },
     {
       "id": "19r5uzj",
-      "number": 3,
+      "number": 1,
       "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
       "partial": false,
-      "progressPercent": 72,
+      "progressPercent": 100,
       "start": "2026-11-17T13:50:00+02:00",
-      "restore": "2026-11-17T20:00:00+02:00",
+      "restore": "2026-11-17T18:10:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "17.11.2026 13:50",
+      "rawRestore": "17.11.2026 18:10"
+    },
+    {
+      "id": "c4jn5r",
+      "number": 2,
+      "address": "ЛУЦЬКА ВУЛ.",
+      "partial": true,
+      "progressPercent": 100,
+      "start": "2026-11-17T13:50:00+02:00",
+      "restore": "2026-11-17T18:10:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "17.11.2026 13:50",
+      "rawRestore": "17.11.2026 18:10"
+    },
+    {
+      "id": "2jmpp7",
+      "number": 3,
+      "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-17T13:50:00+02:00",
+      "restore": "2026-11-17T18:10:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "17.11.2026 13:50",
+      "rawRestore": "17.11.2026 18:10"
+    },
+    {
+      "id": "morr0v",
+      "number": 1,
+      "address": "СЛОБІДКА РАЙОН ВУЛ., частично",
+      "partial": false,
+      "progressPercent": 0,
+      "start": "2026-11-17T18:25:00+02:00",
+      "restore": "2026-11-17T18:25:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 13:50",
-      "rawRestore": "17.11.2026 20:00"
+      "rawStart": "17.11.2026 18:25",
+      "rawRestore": "17.11.2026 18:25"
     }
   ],
   "lastUpdateStatus": {
@@ -85,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T16:15:47.521Z"
+    "at": "2026-11-17T16:31:10.126Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
