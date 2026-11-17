@@ -1,12 +1,52 @@
 {
-  "lastUpdated": "2026-11-17T01:31:56.168Z",
-  "outages": [],
+  "lastUpdated": "2026-11-17T09:31:33.387Z",
+  "outages": [
+    {
+      "id": "krate6",
+      "number": 1,
+      "address": "БАЛКІВСЬКА ВУЛ., 115-183,Головковська",
+      "partial": false,
+      "progressPercent": 10,
+      "start": "2026-11-17T11:15:00+02:00",
+      "restore": "2026-11-17T14:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 11:15",
+      "rawRestore": "17.11.2026 14:00"
+    },
+    {
+      "id": "28l0eh",
+      "number": 2,
+      "address": "СКІСНА ВУЛ., 20-90, Картамишевська",
+      "partial": false,
+      "progressPercent": 10,
+      "start": "2026-11-17T11:15:00+02:00",
+      "restore": "2026-11-17T14:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 11:15",
+      "rawRestore": "17.11.2026 14:00"
+    },
+    {
+      "id": "1mx1joh",
+      "number": 3,
+      "address": "МИХАЙЛІВСЬКА ПЛ., Середня",
+      "partial": false,
+      "progressPercent": 10,
+      "start": "2026-11-17T11:15:00+02:00",
+      "restore": "2026-11-17T14:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 11:15",
+      "rawRestore": "17.11.2026 14:00"
+    }
+  ],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T01:31:56.168Z"
+    "at": "2026-11-17T09:31:33.387Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
