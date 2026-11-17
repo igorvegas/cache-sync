@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T13:45:50.333Z",
+  "lastUpdated": "2026-11-17T14:01:11.333Z",
   "outages": [
     {
       "id": "1mx1joh",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 39,
+      "progressPercent": 46,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T18:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 2,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 39,
+      "progressPercent": 46,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-17T18:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "ЛУЦЬКА ВУЛ.",
       "partial": true,
-      "progressPercent": 31,
+      "progressPercent": 35,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 35,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 3,
       "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 35,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T13:45:50.333Z"
+    "at": "2026-11-17T14:01:11.333Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
