@@ -1,26 +1,12 @@
 {
-  "lastUpdated": "2026-11-16T22:31:19.106Z",
-  "outages": [
-    {
-      "id": "1j5yil3",
-      "number": 1,
-      "address": "ПИРОГОВСЬКА ВУЛ., 7/9 з корпусами",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-16T19:20:00+02:00",
-      "restore": "2026-11-17T00:17:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "16.11.2026 19:20",
-      "rawRestore": "17.11.2026 00:17"
-    }
-  ],
+  "lastUpdated": "2026-11-17T01:31:56.168Z",
+  "outages": [],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-16T22:31:19.106Z"
+    "at": "2026-11-17T01:31:56.168Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
