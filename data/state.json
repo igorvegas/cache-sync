@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T15:31:52.918Z",
+  "lastUpdated": "2026-11-17T15:45:49.445Z",
   "outages": [
     {
       "id": "1mx1joh",
@@ -45,33 +45,33 @@
       "number": 1,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 36,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-17T18:00:00+02:00",
+      "restore": "2026-11-17T23:55:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "17.11.2026 18:00"
+      "rawRestore": "17.11.2026 23:55"
     },
     {
       "id": "fo2yo5",
       "number": 2,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 36,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-17T18:00:00+02:00",
+      "restore": "2026-11-17T23:55:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "17.11.2026 18:00"
+      "rawRestore": "17.11.2026 23:55"
     },
     {
       "id": "c4jn5r",
       "number": 1,
       "address": "ЛУЦЬКА ВУЛ.",
       "partial": true,
-      "progressPercent": 60,
+      "progressPercent": 64,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
       "partial": false,
-      "progressPercent": 60,
+      "progressPercent": 64,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 3,
       "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
       "partial": false,
-      "progressPercent": 60,
+      "progressPercent": 64,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T15:31:52.918Z"
+    "at": "2026-11-17T15:45:49.445Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
