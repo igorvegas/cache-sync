@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T21:15:52.024Z",
+  "lastUpdated": "2026-11-17T21:31:11.823Z",
   "outages": [
     {
-      "id": "fo2yo5",
+      "id": "16kuusp",
       "number": 1,
-      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
+      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
       "partial": false,
-      "progressPercent": 57,
+      "progressPercent": 59,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 57,
+      "progressPercent": 59,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 57,
+      "progressPercent": 59,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,20 @@
       "number": 4,
       "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 57,
+      "progressPercent": 59,
+      "start": "2026-11-17T14:20:00+02:00",
+      "restore": "2026-11-18T06:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 14:20",
+      "rawRestore": "18.11.2026 06:00"
+    },
+    {
+      "id": "1s0x7em",
+      "number": 5,
+      "address": "МАЯЧНИЙ ПРОВ.,",
+      "partial": false,
+      "progressPercent": 59,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T21:15:52.024Z"
+    "at": "2026-11-17T21:31:11.823Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
