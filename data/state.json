@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T12:15:56.264Z",
+  "lastUpdated": "2026-11-17T12:31:01.757Z",
   "outages": [
     {
       "id": "krate6",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 115-183,Головковська",
       "partial": false,
-      "progressPercent": 63,
+      "progressPercent": 69,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "СКІСНА ВУЛ., 20-90, Картамишевська",
       "partial": false,
-      "progressPercent": 63,
+      "progressPercent": 69,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "МИХАЙЛІВСЬКА ПЛ., Середня",
       "partial": false,
-      "progressPercent": 63,
+      "progressPercent": 69,
       "start": "2026-11-17T11:15:00+02:00",
       "restore": "2026-11-17T16:00:00+02:00",
       "restoreKind": "planned",
@@ -41,11 +41,50 @@
       "rawRestore": "17.11.2026 16:00"
     },
     {
-      "id": "c4jn5r",
+      "id": "1qed9gt",
       "number": 1,
+      "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
+      "partial": false,
+      "progressPercent": 5,
+      "start": "2026-11-17T14:20:00+02:00",
+      "restore": "2026-11-17T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 14:20",
+      "rawRestore": "17.11.2026 18:00"
+    },
+    {
+      "id": "fo2yo5",
+      "number": 2,
+      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., 22-85/1, Маячний пров",
+      "partial": false,
+      "progressPercent": 5,
+      "start": "2026-11-17T14:20:00+02:00",
+      "restore": "2026-11-17T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 14:20",
+      "rawRestore": "17.11.2026 18:00"
+    },
+    {
+      "id": "19r5uzj",
+      "number": 1,
+      "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
+      "partial": false,
+      "progressPercent": 11,
+      "start": "2026-11-17T13:50:00+02:00",
+      "restore": "2026-11-17T20:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "17.11.2026 13:50",
+      "rawRestore": "17.11.2026 20:00"
+    },
+    {
+      "id": "c4jn5r",
+      "number": 2,
       "address": "ЛУЦЬКА ВУЛ.",
       "partial": true,
-      "progressPercent": 7,
+      "progressPercent": 11,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -55,23 +94,10 @@
     },
     {
       "id": "2jmpp7",
-      "number": 2,
+      "number": 3,
       "address": "ПЕРЕМОГИ ВУЛ., Яблочная",
       "partial": false,
-      "progressPercent": 7,
-      "start": "2026-11-17T13:50:00+02:00",
-      "restore": "2026-11-17T20:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "17.11.2026 13:50",
-      "rawRestore": "17.11.2026 20:00"
-    },
-    {
-      "id": "19r5uzj",
-      "number": 3,
-      "address": "ВИШНЕВА (ШЕВЧЕНКО) ВУЛ., и переулок",
-      "partial": false,
-      "progressPercent": 7,
+      "progressPercent": 11,
       "start": "2026-11-17T13:50:00+02:00",
       "restore": "2026-11-17T20:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T12:15:56.264Z"
+    "at": "2026-11-17T12:31:01.757Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
