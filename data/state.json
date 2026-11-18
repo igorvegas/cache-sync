@@ -1,77 +1,77 @@
 {
-  "lastUpdated": "2026-11-18T03:18:08.938Z",
+  "lastUpdated": "2026-11-18T03:31:03.694Z",
   "outages": [
     {
       "id": "16kuusp",
       "number": 1,
       "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T05:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 06:00"
+      "rawRestore": "18.11.2026 05:15"
     },
     {
       "id": "1qed9gt",
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T05:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 06:00"
+      "rawRestore": "18.11.2026 05:15"
     },
     {
       "id": "14mbv8p",
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T05:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 06:00"
+      "rawRestore": "18.11.2026 05:15"
     },
     {
       "id": "uikg2y",
       "number": 4,
       "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T05:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 06:00"
+      "rawRestore": "18.11.2026 05:15"
     },
     {
       "id": "1s0x7em",
       "number": 5,
       "address": "МАЯЧНИЙ ПРОВ.,",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T05:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 06:00"
+      "rawRestore": "18.11.2026 05:15"
     },
     {
       "id": "1d8x6qs",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., частично",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-17T23:59:00+02:00",
       "restore": "2026-11-18T05:30:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T03:18:08.938Z"
+    "at": "2026-11-18T03:31:03.694Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
