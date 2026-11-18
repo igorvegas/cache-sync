@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-17T23:58:10.086Z",
+  "lastUpdated": "2026-11-18T00:01:14.771Z",
   "outages": [
     {
-      "id": "uikg2y",
+      "id": "16kuusp",
       "number": 1,
-      "address": "3-Й АМУНДСЕНА ПРОВ.,",
+      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 3,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -41,11 +41,11 @@
       "rawRestore": "18.11.2026 06:00"
     },
     {
-      "id": "16kuusp",
+      "id": "uikg2y",
       "number": 4,
-      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
+      "address": "3-Й АМУНДСЕНА ПРОВ.,",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 5,
       "address": "МАЯЧНИЙ ПРОВ.,",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-17T14:20:00+02:00",
       "restore": "2026-11-18T06:00:00+02:00",
       "restoreKind": "planned",
@@ -71,26 +71,13 @@
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., частично",
       "partial": false,
-      "progressPercent": 36,
+      "progressPercent": 37,
       "start": "2026-11-17T23:59:00+02:00",
       "restore": "2026-11-18T05:30:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "17.11.2026 23:59",
       "rawRestore": "18.11.2026 05:30"
-    },
-    {
-      "id": "morr0v",
-      "number": 1,
-      "address": "СЛОБІДКА РАЙОН ВУЛ., частично",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T18:25:00+02:00",
-      "restore": "2026-11-17T23:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 18:25",
-      "rawRestore": "17.11.2026 23:00"
     }
   ],
   "lastUpdateStatus": {
@@ -98,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-17T23:58:10.086Z"
+    "at": "2026-11-18T00:01:14.771Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
