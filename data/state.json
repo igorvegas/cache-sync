@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-18T21:01:13.477Z",
+  "lastUpdated": "2026-11-18T21:19:53.499Z",
   "outages": [
     {
       "id": "lb0vvm",
       "number": 1,
       "address": "ЖОЛІО-КЮРІ ВУЛ., 1-40",
       "partial": false,
-      "progressPercent": 91,
+      "progressPercent": 94,
       "start": "2026-11-18T13:50:00+02:00",
       "restore": "2026-11-18T23:59:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "7-А ЛІНІЯ ВУЛ.,",
       "partial": false,
-      "progressPercent": 91,
+      "progressPercent": 94,
       "start": "2026-11-18T13:50:00+02:00",
       "restore": "2026-11-18T23:59:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T21:01:13.477Z"
+    "at": "2026-11-18T21:19:53.499Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
