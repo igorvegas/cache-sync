@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-18T07:16:00.501Z",
+  "lastUpdated": "2026-11-18T07:30:59.266Z",
   "outages": [
     {
       "id": "2tdt4b",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 28",
       "partial": false,
-      "progressPercent": 70,
+      "progressPercent": 72,
       "start": "2026-11-18T03:00:00+02:00",
       "restore": "2026-11-18T12:00:00+02:00",
       "restoreKind": "planned",
@@ -20,7 +20,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T07:16:00.501Z"
+    "at": "2026-11-18T07:30:59.266Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
