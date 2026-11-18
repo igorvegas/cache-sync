@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-11-18T12:45:47.507Z",
+  "lastUpdated": "2026-11-18T13:01:23.223Z",
   "outages": [
     {
       "id": "yjodrj",
       "number": 1,
       "address": "ЦЕНТРАЛЬНИЙ АЕРОПОРТ ВУЛ., Малішевського",
       "partial": true,
-      "progressPercent": 78,
+      "progressPercent": 100,
       "start": "2026-11-18T10:20:00+02:00",
-      "restore": "2026-11-18T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T14:40:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "18.11.2026 10:20",
-      "rawRestore": "18.11.2026 16:00"
+      "rawRestore": "18.11.2026 14:40"
     },
     {
       "id": "lb0vvm",
       "number": 1,
       "address": "ЖОЛІО-КЮРІ ВУЛ., 1-40",
       "partial": false,
-      "progressPercent": 15,
+      "progressPercent": 19,
       "start": "2026-11-18T13:50:00+02:00",
       "restore": "2026-11-18T20:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "7-А ЛІНІЯ ВУЛ.,",
       "partial": false,
-      "progressPercent": 15,
+      "progressPercent": 19,
       "start": "2026-11-18T13:50:00+02:00",
       "restore": "2026-11-18T20:00:00+02:00",
       "restoreKind": "planned",
@@ -45,13 +45,26 @@
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 28",
       "partial": false,
-      "progressPercent": 74,
+      "progressPercent": 75,
       "start": "2026-11-18T03:00:00+02:00",
       "restore": "2026-11-18T19:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "18.11.2026 03:00",
       "rawRestore": "18.11.2026 19:00"
+    },
+    {
+      "id": "gq5o48",
+      "number": 1,
+      "address": "МАЛОВСЬКОГО ВУЛ., Левадна,Рачкова,Паркова-частк.",
+      "partial": false,
+      "progressPercent": 8,
+      "start": "2026-11-18T14:45:00+02:00",
+      "restore": "2026-11-18T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "18.11.2026 14:45",
+      "rawRestore": "18.11.2026 18:00"
     }
   ],
   "lastUpdateStatus": {
@@ -59,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T12:45:47.507Z"
+    "at": "2026-11-18T13:01:23.223Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
