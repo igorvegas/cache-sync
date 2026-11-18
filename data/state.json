@@ -1,77 +1,12 @@
 {
-  "lastUpdated": "2026-11-18T06:01:06.009Z",
+  "lastUpdated": "2026-11-18T06:18:32.495Z",
   "outages": [
-    {
-      "id": "16kuusp",
-      "number": 1,
-      "address": "ДАЧА КОВАЛЕВСЬКОГО ВУЛ., Дача Ковалевського",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T05:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 05:15"
-    },
-    {
-      "id": "1qed9gt",
-      "number": 2,
-      "address": "АДОЛЬФА ЛОЗИ ПРОВ., пров. Панченко",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T05:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 05:15"
-    },
-    {
-      "id": "14mbv8p",
-      "number": 3,
-      "address": "ДЕНИСА МАКСИШКО ВУЛ., Горіхова",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T05:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 05:15"
-    },
-    {
-      "id": "uikg2y",
-      "number": 4,
-      "address": "3-Й АМУНДСЕНА ПРОВ.,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T05:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 05:15"
-    },
-    {
-      "id": "1s0x7em",
-      "number": 5,
-      "address": "МАЯЧНИЙ ПРОВ.,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T14:20:00+02:00",
-      "restore": "2026-11-18T05:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 14:20",
-      "rawRestore": "18.11.2026 05:15"
-    },
     {
       "id": "2tdt4b",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 28",
       "partial": false,
-      "progressPercent": 56,
+      "progressPercent": 59,
       "start": "2026-11-18T03:00:00+02:00",
       "restore": "2026-11-18T12:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +20,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T06:01:06.009Z"
+    "at": "2026-11-18T06:18:32.495Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
