@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T03:46:05.281Z",
+  "lastUpdated": "2026-11-18T04:01:10.766Z",
   "outages": [
     {
       "id": "16kuusp",
@@ -67,17 +67,17 @@
       "rawRestore": "18.11.2026 05:15"
     },
     {
-      "id": "1d8x6qs",
+      "id": "2tdt4b",
       "number": 1,
-      "address": "БАЛКІВСЬКА ВУЛ., частично",
+      "address": "БАЛКІВСЬКА ВУЛ., 28",
       "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-17T23:59:00+02:00",
-      "restore": "2026-11-18T03:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "17.11.2026 23:59",
-      "rawRestore": "18.11.2026 03:15"
+      "progressPercent": 34,
+      "start": "2026-11-18T03:00:00+02:00",
+      "restore": "2026-11-18T12:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "18.11.2026 03:00",
+      "rawRestore": "18.11.2026 12:00"
     }
   ],
   "lastUpdateStatus": {
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T03:46:05.281Z"
+    "at": "2026-11-18T04:01:10.766Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
