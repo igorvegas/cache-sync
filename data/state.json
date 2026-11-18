@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-18T11:15:47.702Z",
+  "lastUpdated": "2026-11-18T11:34:16.763Z",
   "outages": [
     {
       "id": "yjodrj",
       "number": 1,
       "address": "ЦЕНТРАЛЬНИЙ АЕРОПОРТ ВУЛ., Малішевського",
       "partial": true,
-      "progressPercent": 52,
+      "progressPercent": 57,
       "start": "2026-11-18T10:20:00+02:00",
       "restore": "2026-11-18T16:00:00+02:00",
       "restoreKind": "planned",
@@ -19,13 +19,13 @@
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ., 28",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 66,
       "start": "2026-11-18T03:00:00+02:00",
-      "restore": "2026-11-18T12:00:00+02:00",
+      "restore": "2026-11-18T19:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "18.11.2026 03:00",
-      "rawRestore": "18.11.2026 12:00"
+      "rawRestore": "18.11.2026 19:00"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T11:15:47.702Z"
+    "at": "2026-11-18T11:34:16.763Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
