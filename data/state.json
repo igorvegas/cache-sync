@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T03:31:03.694Z",
+  "lastUpdated": "2026-11-18T03:46:05.281Z",
   "outages": [
     {
       "id": "16kuusp",
@@ -73,11 +73,11 @@
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-17T23:59:00+02:00",
-      "restore": "2026-11-18T05:30:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-18T03:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "17.11.2026 23:59",
-      "rawRestore": "18.11.2026 05:30"
+      "rawRestore": "18.11.2026 03:15"
     }
   ],
   "lastUpdateStatus": {
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T03:31:03.694Z"
+    "at": "2026-11-18T03:46:05.281Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
