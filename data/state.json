@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T17:01:16.305Z",
+  "lastUpdated": "2026-11-19T17:15:52.665Z",
   "outages": [
     {
       "id": "137napq",
       "number": 1,
       "address": "МЕЛЬНИЦЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 52,
+      "progressPercent": 55,
       "start": "2026-11-19T13:43:00+02:00",
       "restore": "2026-11-19T23:50:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "БАЛКІВСЬКА ВУЛ., 126а",
       "partial": false,
-      "progressPercent": 52,
+      "progressPercent": 55,
       "start": "2026-11-19T13:43:00+02:00",
       "restore": "2026-11-19T23:50:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "СІМ\"Ї ГЛОДАН ВУЛ., 57",
       "partial": false,
-      "progressPercent": 86,
+      "progressPercent": 89,
       "start": "2026-11-19T13:00:00+02:00",
       "restore": "2026-11-19T20:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T17:01:16.305Z"
+    "at": "2026-11-19T17:15:52.665Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
