@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T09:15:50.230Z",
+  "lastUpdated": "2026-11-19T09:33:44.339Z",
   "outages": [
     {
       "id": "kdnxjl",
       "number": 1,
       "address": "ЛУЦЬКА ВУЛ., 1-23",
       "partial": false,
-      "progressPercent": 12,
+      "progressPercent": 19,
       "start": "2026-11-19T10:45:00+02:00",
       "restore": "2026-11-19T15:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "ЯБЛУЧНА ВУЛ., Перемоги,Вишнева",
       "partial": false,
-      "progressPercent": 12,
+      "progressPercent": 19,
       "start": "2026-11-19T10:45:00+02:00",
       "restore": "2026-11-19T15:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "СЕМЕНА ПАЛІЯ ВУЛ.,",
       "partial": false,
-      "progressPercent": 6,
+      "progressPercent": 8,
       "start": "2026-11-19T10:30:00+02:00",
       "restore": "2026-11-19T23:59:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T09:15:50.230Z"
+    "at": "2026-11-19T09:33:44.339Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
