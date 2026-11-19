@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T19:45:48.272Z",
+  "lastUpdated": "2026-11-19T20:01:14.038Z",
   "outages": [
     {
       "id": "137napq",
       "number": 1,
       "address": "МЕЛЬНИЦЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 66,
+      "progressPercent": 68,
       "start": "2026-11-19T13:43:00+02:00",
       "restore": "2026-11-20T02:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T19:45:48.272Z"
+    "at": "2026-11-19T20:01:14.038Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
