@@ -1,12 +1,52 @@
 {
-  "lastUpdated": "2026-11-19T00:21:12.657Z",
-  "outages": [],
+  "lastUpdated": "2026-11-19T09:02:11.141Z",
+  "outages": [
+    {
+      "id": "kdnxjl",
+      "number": 1,
+      "address": "ЛУЦЬКА ВУЛ., 1-23",
+      "partial": false,
+      "progressPercent": 7,
+      "start": "2026-11-19T10:45:00+02:00",
+      "restore": "2026-11-19T15:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "19.11.2026 10:45",
+      "rawRestore": "19.11.2026 15:00"
+    },
+    {
+      "id": "148w8x2",
+      "number": 2,
+      "address": "ЯБЛУЧНА ВУЛ., Перемоги,Вишнева",
+      "partial": false,
+      "progressPercent": 7,
+      "start": "2026-11-19T10:45:00+02:00",
+      "restore": "2026-11-19T15:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "19.11.2026 10:45",
+      "rawRestore": "19.11.2026 15:00"
+    },
+    {
+      "id": "8vaq7l",
+      "number": 1,
+      "address": "СЕМЕНА ПАЛІЯ ВУЛ.,",
+      "partial": false,
+      "progressPercent": 4,
+      "start": "2026-11-19T10:30:00+02:00",
+      "restore": "2026-11-19T23:59:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "19.11.2026 10:30",
+      "rawRestore": "19.11.2026 23:59"
+    }
+  ],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T00:21:12.657Z"
+    "at": "2026-11-19T09:02:11.141Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
