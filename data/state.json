@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-19T13:45:46.653Z",
+  "lastUpdated": "2026-11-19T14:01:21.029Z",
   "outages": [
     {
       "id": "137napq",
       "number": 1,
       "address": "МЕЛЬНИЦЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 48,
+      "progressPercent": 54,
       "start": "2026-11-19T13:43:00+02:00",
       "restore": "2026-11-19T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,33 +19,33 @@
       "number": 1,
       "address": "ЛУЦЬКА ВУЛ., 1-23",
       "partial": false,
-      "progressPercent": 61,
+      "progressPercent": 100,
       "start": "2026-11-19T10:45:00+02:00",
-      "restore": "2026-11-19T19:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-19T15:55:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "19.11.2026 10:45",
-      "rawRestore": "19.11.2026 19:00"
+      "rawRestore": "19.11.2026 15:55"
     },
     {
       "id": "148w8x2",
       "number": 2,
       "address": "ЯБЛУЧНА ВУЛ., Перемоги,Вишнева",
       "partial": false,
-      "progressPercent": 61,
+      "progressPercent": 100,
       "start": "2026-11-19T10:45:00+02:00",
-      "restore": "2026-11-19T19:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-19T15:55:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "19.11.2026 10:45",
-      "rawRestore": "19.11.2026 19:00"
+      "rawRestore": "19.11.2026 15:55"
     },
     {
       "id": "1m8my0v",
       "number": 1,
       "address": "СЕМЕНА ПАЛІЯ ВУЛ., 68",
       "partial": false,
-      "progressPercent": 39,
+      "progressPercent": 41,
       "start": "2026-11-19T10:30:00+02:00",
       "restore": "2026-11-19T23:59:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СІМ\"Ї ГЛОДАН ВУЛ., 57",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 60,
       "start": "2026-11-19T13:00:00+02:00",
       "restore": "2026-11-19T18:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-19T13:45:46.653Z"
+    "at": "2026-11-19T14:01:21.029Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
