@@ -1,39 +1,12 @@
 {
-  "lastUpdated": "2026-11-18T21:31:02.391Z",
-  "outages": [
-    {
-      "id": "lb0vvm",
-      "number": 1,
-      "address": "ЖОЛІО-КЮРІ ВУЛ., 1-40",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-18T13:50:00+02:00",
-      "restore": "2026-11-18T23:20:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "18.11.2026 13:50",
-      "rawRestore": "18.11.2026 23:20"
-    },
-    {
-      "id": "momid5",
-      "number": 2,
-      "address": "7-А ЛІНІЯ ВУЛ.,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-18T13:50:00+02:00",
-      "restore": "2026-11-18T23:20:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "18.11.2026 13:50",
-      "rawRestore": "18.11.2026 23:20"
-    }
-  ],
+  "lastUpdated": "2026-11-19T00:21:12.657Z",
+  "outages": [],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-18T21:31:02.391Z"
+    "at": "2026-11-19T00:21:12.657Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
