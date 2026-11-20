@@ -1,18 +1,31 @@
 {
-  "lastUpdated": "2026-11-20T04:15:46.216Z",
+  "lastUpdated": "2026-11-20T04:30:58.283Z",
   "outages": [
     {
-      "id": "8nx7ee",
+      "id": "1sizrg9",
       "number": 1,
-      "address": "ЄВРОПЕЙСЬКА ВУЛ., 48/ Троицкой",
+      "address": "ЄВРОПЕЙСЬКА ВУЛ., 48/ Троицкой-Еврейская 43",
       "partial": false,
-      "progressPercent": 53,
+      "progressPercent": 38,
       "start": "2026-11-20T02:00:00+02:00",
-      "restore": "2026-11-20T10:00:00+02:00",
+      "restore": "2026-11-20T14:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "20.11.2026 02:00",
-      "rawRestore": "20.11.2026 10:00"
+      "rawRestore": "20.11.2026 14:00"
+    },
+    {
+      "id": "xuu2d2",
+      "number": 2,
+      "address": "ЄВРЕЙСЬКА ВУЛ., 43",
+      "partial": false,
+      "progressPercent": 38,
+      "start": "2026-11-20T02:00:00+02:00",
+      "restore": "2026-11-20T14:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "20.11.2026 02:00",
+      "rawRestore": "20.11.2026 14:00"
     }
   ],
   "lastUpdateStatus": {
@@ -20,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T04:15:46.216Z"
+    "at": "2026-11-20T04:30:58.283Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
