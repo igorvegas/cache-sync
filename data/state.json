@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-20T06:01:20.744Z",
+  "lastUpdated": "2026-11-20T06:15:49.351Z",
   "outages": [
     {
       "id": "1sizrg9",
       "number": 1,
       "address": "ЄВРОПЕЙСЬКА ВУЛ., 48/ Троицкой-Еврейская 43",
       "partial": false,
-      "progressPercent": 50,
+      "progressPercent": 52,
       "start": "2026-11-20T02:00:00+02:00",
       "restore": "2026-11-20T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "ЄВРЕЙСЬКА ВУЛ., 43",
       "partial": false,
-      "progressPercent": 50,
+      "progressPercent": 52,
       "start": "2026-11-20T02:00:00+02:00",
       "restore": "2026-11-20T14:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T06:01:20.744Z"
+    "at": "2026-11-20T06:15:49.351Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
