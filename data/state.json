@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T00:19:01.861Z",
+  "lastUpdated": "2026-11-20T00:31:04.248Z",
   "outages": [
     {
       "id": "137napq",
@@ -26,6 +26,19 @@
       "restoreColor": null,
       "rawStart": "19.11.2026 13:43",
       "rawRestore": "20.11.2026 02:00"
+    },
+    {
+      "id": "8nx7ee",
+      "number": 1,
+      "address": "ЄВРОПЕЙСЬКА ВУЛ., 48/ Троицкой",
+      "partial": false,
+      "progressPercent": 6,
+      "start": "2026-11-20T02:00:00+02:00",
+      "restore": "2026-11-20T10:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "20.11.2026 02:00",
+      "rawRestore": "20.11.2026 10:00"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T00:19:01.861Z"
+    "at": "2026-11-20T00:31:04.248Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
