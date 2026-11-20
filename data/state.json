@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-20T20:46:22.777Z",
+  "lastUpdated": "2026-11-20T21:04:36.854Z",
   "outages": [
     {
       "id": "5ttqp",
       "number": 1,
       "address": "ІВАНА ФРАНКА ВУЛ., Штурвальна,Леся Курбаса",
       "partial": false,
-      "progressPercent": 85,
+      "progressPercent": 91,
       "start": "2026-11-20T18:35:00+02:00",
       "restore": "2026-11-20T23:30:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T20:46:22.777Z"
+    "at": "2026-11-20T21:04:36.854Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
