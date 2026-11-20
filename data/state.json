@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-20T20:01:14.714Z",
+  "lastUpdated": "2026-11-20T20:15:46.103Z",
   "outages": [
     {
       "id": "5ttqp",
       "number": 1,
       "address": "ІВАНА ФРАНКА ВУЛ., Штурвальна,Леся Курбаса",
       "partial": false,
-      "progressPercent": 70,
+      "progressPercent": 75,
       "start": "2026-11-20T18:35:00+02:00",
       "restore": "2026-11-20T23:30:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ВСЕВОЛОДА ЗМІЄНКА ВУЛ., Садова, Пастера, П.Зеленого",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 75,
       "start": "2026-11-20T20:00:00+02:00",
       "restore": "2026-11-20T23:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-20T20:01:14.714Z"
+    "at": "2026-11-20T20:15:46.103Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
