@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T18:45:46.471Z",
+  "lastUpdated": "2026-11-21T19:01:30.438Z",
   "outages": [
     {
       "id": "17rwipx",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 16,
+      "progressPercent": 17,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T15:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 16,
+      "progressPercent": 17,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T15:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T18:45:46.471Z"
+    "at": "2026-11-21T19:01:30.438Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
