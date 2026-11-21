@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-21T16:31:00.620Z",
+  "lastUpdated": "2026-11-21T16:45:46.853Z",
   "outages": [
     {
       "id": "17rwipx",
       "number": 1,
       "address": "ЛЮСТДОРФСЬКА ДОРОГА ВУЛ., 127-152/5, Левітана-12-32",
       "partial": false,
-      "progressPercent": 52,
+      "progressPercent": 55,
       "start": "2026-11-21T14:45:00+02:00",
       "restore": "2026-11-21T22:00:00+02:00",
       "restoreKind": "planned",
@@ -19,39 +19,13 @@
       "number": 2,
       "address": "КНЯЗЯ ЯРОСЛАВА МУДРОГО ПРОСП., 2-14",
       "partial": false,
-      "progressPercent": 52,
+      "progressPercent": 55,
       "start": "2026-11-21T14:45:00+02:00",
       "restore": "2026-11-21T22:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "21.11.2026 14:45",
       "rawRestore": "21.11.2026 22:00"
-    },
-    {
-      "id": "75fiic",
-      "number": 1,
-      "address": "ШКІЛЬНИЙ АЕРОДРОМ ВУЛ., 1",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-21T10:10:00+02:00",
-      "restore": "2026-11-21T15:40:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "21.11.2026 10:10",
-      "rawRestore": "21.11.2026 15:40"
-    },
-    {
-      "id": "do9hjt",
-      "number": 2,
-      "address": "НЕБЕСНОЙ СОТНІ ПРОСП., 6-12",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-21T10:10:00+02:00",
-      "restore": "2026-11-21T15:40:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "21.11.2026 10:10",
-      "rawRestore": "21.11.2026 15:40"
     },
     {
       "id": "16f5wj8",
@@ -85,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T16:31:00.620Z"
+    "at": "2026-11-21T16:45:46.853Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
