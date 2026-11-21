@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-21T15:35:14.616Z",
+  "lastUpdated": "2026-11-21T15:45:57.985Z",
   "outages": [
     {
       "id": "17rwipx",
       "number": 1,
       "address": "ЛЮСТДОРФСЬКА ДОРОГА ВУЛ., 127-152/5, Левітана-12-32",
       "partial": false,
-      "progressPercent": 39,
+      "progressPercent": 42,
       "start": "2026-11-21T14:45:00+02:00",
       "restore": "2026-11-21T22:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "КНЯЗЯ ЯРОСЛАВА МУДРОГО ПРОСП., 2-14",
       "partial": false,
-      "progressPercent": 39,
+      "progressPercent": 42,
       "start": "2026-11-21T14:45:00+02:00",
       "restore": "2026-11-21T22:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T15:35:14.616Z"
+    "at": "2026-11-21T15:45:57.985Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
