@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-21T08:31:03.631Z",
+  "lastUpdated": "2026-11-21T08:45:52.744Z",
   "outages": [
     {
       "id": "16f5wj8",
       "number": 1,
       "address": "МОТОРНА ВУЛ., 1-33, Моторний пров.-1-17",
       "partial": false,
-      "progressPercent": 9,
+      "progressPercent": 16,
       "start": "2026-11-21T10:10:00+02:00",
       "restore": "2026-11-21T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "2-Й МОТОРНИЙ ПРОВ., 2-14",
       "partial": false,
-      "progressPercent": 9,
+      "progressPercent": 16,
       "start": "2026-11-21T10:10:00+02:00",
       "restore": "2026-11-21T14:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-21T08:31:03.631Z"
+    "at": "2026-11-21T08:45:52.744Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
