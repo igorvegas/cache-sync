@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T20:16:13.777Z",
+  "lastUpdated": "2026-11-22T20:31:04.704Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "МАЛОВСЬКОГО ВУЛ., Левадна,Балківська-частк.",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 89,
       "start": "2026-11-22T18:30:00+02:00",
       "restore": "2026-11-22T23:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-22T20:16:13.777Z"
+    "at": "2026-11-22T20:31:04.704Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
