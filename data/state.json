@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-22T03:31:33.808Z",
+  "lastUpdated": "2026-11-22T03:45:47.926Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 56,
+      "progressPercent": 57,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T15:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 56,
+      "progressPercent": 57,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T15:00:00+02:00",
       "restoreKind": "planned",
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-22T03:31:33.808Z"
+    "at": "2026-11-22T03:45:47.926Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
