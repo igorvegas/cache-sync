@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-22T18:15:51.492Z",
+  "lastUpdated": "2026-11-22T18:31:02.394Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 88,
+      "progressPercent": 89,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T23:55:00+02:00",
       "restoreKind": "planned",
@@ -19,13 +19,26 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 88,
+      "progressPercent": 89,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-22T23:55:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "21.11.2026 17:20",
       "rawRestore": "22.11.2026 23:55"
+    },
+    {
+      "id": "rtsqsg",
+      "number": 1,
+      "address": "МАЛОВСЬКОГО ВУЛ., Левадна,Балківська-частк.",
+      "partial": false,
+      "progressPercent": 45,
+      "start": "2026-11-22T18:30:00+02:00",
+      "restore": "2026-11-22T23:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "22.11.2026 18:30",
+      "rawRestore": "22.11.2026 23:00"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-22T18:15:51.492Z"
+    "at": "2026-11-22T18:31:02.394Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
