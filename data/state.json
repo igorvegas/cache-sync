@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T13:03:44.421Z",
+  "lastUpdated": "2026-11-23T13:15:57.152Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
       "partial": false,
-      "progressPercent": 48,
+      "progressPercent": 50,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
       "partial": false,
-      "progressPercent": 48,
+      "progressPercent": 50,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "КАНАТНА ВУЛ., пров.П.Олика,Італійський б-р",
       "partial": false,
-      "progressPercent": 68,
+      "progressPercent": 71,
       "start": "2026-11-23T11:00:00+02:00",
       "restore": "2026-11-23T17:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "СІЛЬСЬКОГОСПОДАРСЬКИЙ ПРОВ.,",
       "partial": false,
-      "progressPercent": 68,
+      "progressPercent": 71,
       "start": "2026-11-23T11:00:00+02:00",
       "restore": "2026-11-23T17:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
       "partial": false,
-      "progressPercent": 68,
+      "progressPercent": 71,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T17:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 37,
+      "progressPercent": 39,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -163,7 +163,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T13:03:44.421Z"
+    "at": "2026-11-23T13:15:57.152Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
