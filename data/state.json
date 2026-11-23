@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T08:31:13.775Z",
+  "lastUpdated": "2026-11-23T08:45:47.982Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -26,6 +26,32 @@
       "restoreColor": "#60b6d9",
       "rawStart": "21.11.2026 17:20",
       "rawRestore": "23.11.2026 18:00"
+    },
+    {
+      "id": "18v90rw",
+      "number": 1,
+      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-23T10:30:00+02:00",
+      "restore": "2026-11-23T20:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 10:30",
+      "rawRestore": "23.11.2026 20:00"
+    },
+    {
+      "id": "171c116",
+      "number": 2,
+      "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-23T10:30:00+02:00",
+      "restore": "2026-11-23T20:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 10:30",
+      "rawRestore": "23.11.2026 20:00"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T08:31:13.775Z"
+    "at": "2026-11-23T08:45:47.982Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
