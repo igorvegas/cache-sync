@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T10:31:15.738Z",
+  "lastUpdated": "2026-11-23T10:45:50.969Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
       "partial": false,
-      "progressPercent": 21,
+      "progressPercent": 24,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
       "partial": false,
-      "progressPercent": 21,
+      "progressPercent": 24,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "ЄВГЕНА ТАНЦЮРИ ВУЛ., Героїв Крут, Комарова частково",
       "partial": false,
-      "progressPercent": 33,
+      "progressPercent": 37,
       "start": "2026-11-23T10:50:00+02:00",
       "restore": "2026-11-23T16:00:00+02:00",
       "restoreKind": "planned",
@@ -67,24 +67,11 @@
       "rawRestore": "23.11.2026 16:00"
     },
     {
-      "id": "1jgfh2e",
-      "number": 1,
-      "address": "КАНАТНА ВУЛ., пров.П.Олика,Італійський б-р",
-      "partial": false,
-      "progressPercent": 25,
-      "start": "2026-11-23T11:00:00+02:00",
-      "restore": "2026-11-23T17:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "23.11.2026 11:00",
-      "rawRestore": "23.11.2026 17:00"
-    },
-    {
       "id": "5316r8",
-      "number": 2,
+      "number": 1,
       "address": "СІЛЬСЬКОГОСПОДАРСЬКИЙ ПРОВ.,",
       "partial": false,
-      "progressPercent": 25,
+      "progressPercent": 29,
       "start": "2026-11-23T11:00:00+02:00",
       "restore": "2026-11-23T17:00:00+02:00",
       "restoreKind": "planned",
@@ -93,11 +80,24 @@
       "rawRestore": "23.11.2026 17:00"
     },
     {
-      "id": "19r8htb",
-      "number": 1,
-      "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского96",
+      "id": "1jgfh2e",
+      "number": 2,
+      "address": "КАНАТНА ВУЛ., пров.П.Олика,Італійський б-р",
       "partial": false,
-      "progressPercent": 25,
+      "progressPercent": 29,
+      "start": "2026-11-23T11:00:00+02:00",
+      "restore": "2026-11-23T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 11:00",
+      "rawRestore": "23.11.2026 17:00"
+    },
+    {
+      "id": "1wce2ow",
+      "number": 1,
+      "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
+      "partial": false,
+      "progressPercent": 29,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T17:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 14,
+      "progressPercent": 17,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,13 +123,26 @@
       "number": 1,
       "address": "КОЛОНТАЇВСЬКА ВУЛ., 56/Скісна",
       "partial": false,
-      "progressPercent": 38,
+      "progressPercent": 44,
       "start": "2026-11-23T11:00:00+02:00",
       "restore": "2026-11-23T15:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "23.11.2026 11:00",
       "rawRestore": "23.11.2026 15:00"
+    },
+    {
+      "id": "ua8iyw",
+      "number": 1,
+      "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 75-83",
+      "partial": false,
+      "progressPercent": 19,
+      "start": "2026-11-23T12:00:00+02:00",
+      "restore": "2026-11-23T16:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 12:00",
+      "rawRestore": "23.11.2026 16:00"
     }
   ],
   "lastUpdateStatus": {
@@ -137,7 +150,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T10:31:15.738Z"
+    "at": "2026-11-23T10:45:50.969Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
