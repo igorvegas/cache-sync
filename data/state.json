@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-23T18:45:51.931Z",
+  "lastUpdated": "2026-11-23T19:03:46.630Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 49,
+      "progressPercent": 54,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-23T23:59:00+02:00",
       "restoreKind": "planned",
@@ -41,37 +41,11 @@
       "rawRestore": "24.11.2026 14:00"
     },
     {
-      "id": "171c116",
-      "number": 1,
-      "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:30:00+02:00",
-      "restore": "2026-11-23T18:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:30",
-      "rawRestore": "23.11.2026 18:00"
-    },
-    {
-      "id": "18v90rw",
-      "number": 2,
-      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:30:00+02:00",
-      "restore": "2026-11-23T18:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:30",
-      "rawRestore": "23.11.2026 18:00"
-    },
-    {
       "id": "1wce2ow",
       "number": 1,
       "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
       "partial": false,
-      "progressPercent": 89,
+      "progressPercent": 91,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +58,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 89,
+      "progressPercent": 92,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +71,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 23,
+      "progressPercent": 24,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +84,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 38,
+      "progressPercent": 42,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T01:00:00+02:00",
       "restoreKind": "planned",
@@ -124,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T18:45:51.931Z"
+    "at": "2026-11-23T19:03:46.630Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
