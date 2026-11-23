@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T09:01:12.598Z",
+  "lastUpdated": "2026-11-23T09:15:51.100Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -28,11 +28,11 @@
       "rawRestore": "23.11.2026 18:00"
     },
     {
-      "id": "18v90rw",
+      "id": "171c116",
       "number": 1,
-      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
+      "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 8,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -41,11 +41,11 @@
       "rawRestore": "23.11.2026 20:00"
     },
     {
-      "id": "171c116",
+      "id": "18v90rw",
       "number": 2,
-      "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
+      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 8,
       "start": "2026-11-23T10:30:00+02:00",
       "restore": "2026-11-23T20:00:00+02:00",
       "restoreKind": "planned",
@@ -58,13 +58,52 @@
       "number": 1,
       "address": "ЄВГЕНА ТАНЦЮРИ ВУЛ., Героїв Крут, Комарова частково",
       "partial": false,
-      "progressPercent": 4,
+      "progressPercent": 8,
       "start": "2026-11-23T10:50:00+02:00",
       "restore": "2026-11-23T16:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "23.11.2026 10:50",
       "rawRestore": "23.11.2026 16:00"
+    },
+    {
+      "id": "6w82du",
+      "number": 1,
+      "address": "КАНАТНА ВУЛ., пров.П.Олика",
+      "partial": false,
+      "progressPercent": 4,
+      "start": "2026-11-23T11:00:00+02:00",
+      "restore": "2026-11-23T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 11:00",
+      "rawRestore": "23.11.2026 17:00"
+    },
+    {
+      "id": "19r8htb",
+      "number": 1,
+      "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского96",
+      "partial": false,
+      "progressPercent": 4,
+      "start": "2026-11-23T11:01:00+02:00",
+      "restore": "2026-11-23T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 11:01",
+      "rawRestore": "23.11.2026 17:00"
+    },
+    {
+      "id": "149qy9o",
+      "number": 1,
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-23T10:55:00+02:00",
+      "restore": "2026-11-23T22:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 10:55",
+      "rawRestore": "23.11.2026 22:00"
     }
   ],
   "lastUpdateStatus": {
@@ -72,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T09:01:12.598Z"
+    "at": "2026-11-23T09:15:51.100Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
