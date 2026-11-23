@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-23T17:49:04.196Z",
+  "lastUpdated": "2026-11-23T18:01:12.345Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 34,
+      "progressPercent": 37,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-23T23:59:00+02:00",
       "restoreKind": "planned",
@@ -41,21 +41,8 @@
       "rawRestore": "24.11.2026 14:00"
     },
     {
-      "id": "18v90rw",
-      "number": 1,
-      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:30:00+02:00",
-      "restore": "2026-11-23T18:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:30",
-      "rawRestore": "23.11.2026 18:00"
-    },
-    {
       "id": "171c116",
-      "number": 2,
+      "number": 1,
       "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
       "partial": false,
       "progressPercent": 100,
@@ -67,37 +54,24 @@
       "rawRestore": "23.11.2026 18:00"
     },
     {
-      "id": "5316r8",
-      "number": 1,
-      "address": "СІЛЬСЬКОГОСПОДАРСЬКИЙ ПРОВ.,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T11:00:00+02:00",
-      "restore": "2026-11-23T17:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 11:00",
-      "rawRestore": "23.11.2026 17:00"
-    },
-    {
-      "id": "1jgfh2e",
+      "id": "18v90rw",
       "number": 2,
-      "address": "КАНАТНА ВУЛ., пров.П.Олика,Італійський б-р",
+      "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
       "partial": false,
       "progressPercent": 100,
-      "start": "2026-11-23T11:00:00+02:00",
-      "restore": "2026-11-23T17:00:00+02:00",
+      "start": "2026-11-23T10:30:00+02:00",
+      "restore": "2026-11-23T18:00:00+02:00",
       "restoreKind": "actual",
       "restoreColor": null,
-      "rawStart": "23.11.2026 11:00",
-      "rawRestore": "23.11.2026 17:00"
+      "rawStart": "23.11.2026 10:30",
+      "rawRestore": "23.11.2026 18:00"
     },
     {
       "id": "1wce2ow",
       "number": 1,
       "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
       "partial": false,
-      "progressPercent": 80,
+      "progressPercent": 82,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +84,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 80,
+      "progressPercent": 82,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +97,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 19,
+      "progressPercent": 20,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -136,7 +110,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 24,
+      "progressPercent": 27,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T01:00:00+02:00",
       "restoreKind": "planned",
@@ -150,7 +124,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T17:49:04.196Z"
+    "at": "2026-11-23T18:01:12.345Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
