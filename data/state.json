@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-23T16:32:29.570Z",
+  "lastUpdated": "2026-11-23T16:45:52.879Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 14,
+      "progressPercent": 17,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-23T23:59:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 1,
       "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
       "partial": false,
-      "progressPercent": 69,
+      "progressPercent": 71,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 69,
+      "progressPercent": 71,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 14,
+      "progressPercent": 15,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -136,7 +136,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 9,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T01:00:00+02:00",
       "restoreKind": "planned",
@@ -150,7 +150,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T16:32:29.570Z"
+    "at": "2026-11-23T16:45:52.879Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
