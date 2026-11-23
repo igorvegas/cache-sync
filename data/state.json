@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-23T20:45:51.118Z",
+  "lastUpdated": "2026-11-23T21:04:38.607Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 81,
+      "progressPercent": 86,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-23T23:59:00+02:00",
       "restoreKind": "planned",
@@ -54,24 +54,11 @@
       "rawRestore": "23.11.2026 22:10"
     },
     {
-      "id": "149qy9o",
-      "number": 1,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-23T20:03:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:55",
-      "rawRestore": "23.11.2026 20:03"
-    },
-    {
       "id": "aud8ny",
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 32,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +71,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 67,
+      "progressPercent": 72,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T01:00:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T20:45:51.118Z"
+    "at": "2026-11-23T21:04:38.607Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
