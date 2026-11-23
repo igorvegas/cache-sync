@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-23T16:01:51.208Z",
+  "lastUpdated": "2026-11-23T16:15:51.597Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 6,
+      "progressPercent": 9,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-23T23:59:00+02:00",
       "restoreKind": "planned",
@@ -45,26 +45,26 @@
       "number": 1,
       "address": "ХУДОЖНИКА ФЕДОРОВА ВУЛ., Рибальська",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 100,
       "start": "2026-11-23T10:30:00+02:00",
-      "restore": "2026-11-23T20:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-23T18:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "23.11.2026 10:30",
-      "rawRestore": "23.11.2026 20:00"
+      "rawRestore": "23.11.2026 18:00"
     },
     {
       "id": "18v90rw",
       "number": 2,
       "address": "СЕМЕНА ЯХНЕНКО ВУЛ., Довга, Д.Максишко",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 100,
       "start": "2026-11-23T10:30:00+02:00",
-      "restore": "2026-11-23T20:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-23T18:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "23.11.2026 10:30",
-      "rawRestore": "23.11.2026 20:00"
+      "rawRestore": "23.11.2026 18:00"
     },
     {
       "id": "5316r8",
@@ -97,7 +97,7 @@
       "number": 1,
       "address": "ТИРАСПОЛЬСЬКА ВУЛ., Новосельского",
       "partial": false,
-      "progressPercent": 64,
+      "progressPercent": 66,
       "start": "2026-11-23T11:01:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 26 ; 34 ; 36 ; 38",
       "partial": false,
-      "progressPercent": 64,
+      "progressPercent": 66,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-23T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 12,
+      "progressPercent": 13,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-23T16:01:51.208Z"
+    "at": "2026-11-23T16:15:51.597Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
