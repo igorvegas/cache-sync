@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T09:45:55.165Z",
+  "lastUpdated": "2026-11-24T10:01:20.899Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 93,
+      "progressPercent": 95,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 13,
+      "progressPercent": 17,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T17:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 14,
+      "progressPercent": 16,
       "start": "2026-11-24T10:00:00+02:00",
       "restore": "2026-11-24T23:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 12,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T09:45:55.165Z"
+    "at": "2026-11-24T10:01:20.899Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
