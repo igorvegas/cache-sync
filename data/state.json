@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T08:15:56.250Z",
+  "lastUpdated": "2026-11-24T08:31:10.234Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 85,
+      "progressPercent": 87,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -58,13 +58,26 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 2,
+      "progressPercent": 4,
       "start": "2026-11-24T10:00:00+02:00",
       "restore": "2026-11-24T23:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "24.11.2026 10:00",
       "rawRestore": "24.11.2026 23:00"
+    },
+    {
+      "id": "kzzj0m",
+      "number": 1,
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
+      "partial": false,
+      "progressPercent": 1,
+      "start": "2026-11-24T10:20:00+02:00",
+      "restore": "2026-11-24T23:59:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "24.11.2026 10:20",
+      "rawRestore": "24.11.2026 23:59"
     }
   ],
   "lastUpdateStatus": {
@@ -72,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T08:15:56.250Z"
+    "at": "2026-11-24T08:31:10.234Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
