@@ -1,31 +1,31 @@
 {
-  "lastUpdated": "2026-11-24T12:31:02.428Z",
+  "lastUpdated": "2026-11-24T12:46:00.943Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 100,
+      "progressPercent": 75,
       "start": "2026-11-21T17:20:00+02:00",
-      "restore": "2026-11-24T14:00:00+02:00",
+      "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "21.11.2026 17:20",
-      "rawRestore": "24.11.2026 14:00"
+      "rawRestore": "25.11.2026 14:00"
     },
     {
       "id": "1c15eey",
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 75,
       "start": "2026-11-21T17:20:00+02:00",
-      "restore": "2026-11-24T14:00:00+02:00",
+      "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "21.11.2026 17:20",
-      "rawRestore": "24.11.2026 14:00"
+      "rawRestore": "25.11.2026 14:00"
     },
     {
       "id": "tizc9i",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 59,
+      "progressPercent": 63,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T17:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 35,
+      "progressPercent": 37,
       "start": "2026-11-24T10:00:00+02:00",
       "restore": "2026-11-24T23:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 32,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T12:31:02.428Z"
+    "at": "2026-11-24T12:46:00.943Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
