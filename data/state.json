@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T04:31:02.446Z",
+  "lastUpdated": "2026-11-24T04:45:47.409Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 62,
+      "progressPercent": 63,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 66,
+      "progressPercent": 67,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T04:31:02.446Z"
+    "at": "2026-11-24T04:45:47.409Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
