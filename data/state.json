@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T13:15:49.047Z",
+  "lastUpdated": "2026-11-24T13:31:11.866Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 75,
+      "progressPercent": 76,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 75,
+      "progressPercent": 76,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 71,
+      "progressPercent": 75,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T17:00:00+02:00",
       "restoreKind": "planned",
@@ -45,20 +45,20 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 40,
+      "progressPercent": 100,
       "start": "2026-11-24T10:00:00+02:00",
-      "restore": "2026-11-24T23:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-24T15:20:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "24.11.2026 10:00",
-      "rawRestore": "24.11.2026 23:00"
+      "rawRestore": "24.11.2026 15:20"
     },
     {
       "id": "kzzj0m",
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 36,
+      "progressPercent": 38,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T13:15:49.047Z"
+    "at": "2026-11-24T13:31:11.866Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
