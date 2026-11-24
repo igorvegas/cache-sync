@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T03:01:12.786Z",
+  "lastUpdated": "2026-11-24T03:15:46.140Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 94,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-24T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 56,
+      "progressPercent": 57,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 58,
+      "progressPercent": 59,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T03:01:12.786Z"
+    "at": "2026-11-24T03:15:46.140Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
