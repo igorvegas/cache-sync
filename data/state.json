@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T11:01:30.668Z",
+  "lastUpdated": "2026-11-24T11:15:47.507Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -28,19 +28,6 @@
       "rawRestore": "24.11.2026 14:00"
     },
     {
-      "id": "aud8ny",
-      "number": 1,
-      "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T15:00:00+02:00",
-      "restore": "2026-11-24T10:10:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 15:00",
-      "rawRestore": "24.11.2026 10:10"
-    },
-    {
       "id": "tizc9i",
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
@@ -58,7 +45,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 34,
+      "progressPercent": 38,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T17:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +58,7 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 23,
+      "progressPercent": 25,
       "start": "2026-11-24T10:00:00+02:00",
       "restore": "2026-11-24T23:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +71,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 21,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T11:01:30.668Z"
+    "at": "2026-11-24T11:15:47.507Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
