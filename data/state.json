@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T21:46:01.508Z",
+  "lastUpdated": "2026-11-24T22:01:11.604Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 100,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66",
       "partial": false,
-      "progressPercent": 21,
+      "progressPercent": 23,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T10:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T21:46:01.508Z"
+    "at": "2026-11-24T22:01:11.604Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
