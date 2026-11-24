@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T09:30:58.249Z",
+  "lastUpdated": "2026-11-24T09:45:55.165Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 96,
+      "progressPercent": 97,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 97,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 93,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 9,
+      "progressPercent": 13,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T17:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "БІЛЯЇВКА МІСТО,",
       "partial": false,
-      "progressPercent": 12,
+      "progressPercent": 14,
       "start": "2026-11-24T10:00:00+02:00",
       "restore": "2026-11-24T23:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 9,
+      "progressPercent": 10,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T09:30:58.249Z"
+    "at": "2026-11-24T09:45:55.165Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
