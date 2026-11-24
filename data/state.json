@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T08:01:42.048Z",
+  "lastUpdated": "2026-11-24T08:15:56.250Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 94,
+      "progressPercent": 95,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 94,
+      "progressPercent": 95,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -32,26 +32,39 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 76,
+      "progressPercent": 100,
       "start": "2026-11-23T15:00:00+02:00",
-      "restore": "2026-11-24T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-24T10:10:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "23.11.2026 15:00",
-      "rawRestore": "24.11.2026 16:00"
+      "rawRestore": "24.11.2026 10:10"
     },
     {
       "id": "tizc9i",
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 85,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "23.11.2026 18:10",
       "rawRestore": "24.11.2026 13:00"
+    },
+    {
+      "id": "3i37k",
+      "number": 1,
+      "address": "БІЛЯЇВКА МІСТО,",
+      "partial": false,
+      "progressPercent": 2,
+      "start": "2026-11-24T10:00:00+02:00",
+      "restore": "2026-11-24T23:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "24.11.2026 10:00",
+      "rawRestore": "24.11.2026 23:00"
     }
   ],
   "lastUpdateStatus": {
@@ -59,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T08:01:42.048Z"
+    "at": "2026-11-24T08:15:56.250Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
