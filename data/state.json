@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T02:31:02.022Z",
+  "lastUpdated": "2026-11-24T02:45:49.008Z",
   "outages": [
     {
       "id": "1n5wivx",
       "number": 1,
       "address": "ДЕНИСА МАКСИШКО ВУЛ., частк.Художника Федорова,,Офіцерська",
       "partial": false,
-      "progressPercent": 88,
+      "progressPercent": 90,
       "start": "2026-11-23T17:40:00+02:00",
       "restore": "2026-11-24T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 86,
+      "progressPercent": 87,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 86,
+      "progressPercent": 87,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-24T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "ІЦХАКА РАБІНА ВУЛ., 4 верхні поверхи",
       "partial": false,
-      "progressPercent": 54,
+      "progressPercent": 55,
       "start": "2026-11-23T15:00:00+02:00",
       "restore": "2026-11-24T16:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 131",
       "partial": false,
-      "progressPercent": 55,
+      "progressPercent": 56,
       "start": "2026-11-23T18:10:00+02:00",
       "restore": "2026-11-24T13:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T02:31:02.022Z"
+    "at": "2026-11-24T02:45:49.008Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
