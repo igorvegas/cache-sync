@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T17:15:48.192Z",
+  "lastUpdated": "2026-11-24T17:31:04.237Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "АКАДЕМІКА КОРОЛЬОВА ВУЛ., 72-94 Є.",
       "partial": false,
-      "progressPercent": 83,
+      "progressPercent": 85,
       "start": "2026-11-24T11:00:00+02:00",
       "restore": "2026-11-24T21:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 65,
+      "progressPercent": 67,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-24T23:59:00+02:00",
       "restoreKind": "planned",
@@ -45,13 +45,13 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 100,
       "start": "2026-11-24T15:30:00+02:00",
-      "restore": "2026-11-24T20:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-24T18:30:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "24.11.2026 15:30",
-      "rawRestore": "24.11.2026 20:00"
+      "rawRestore": "24.11.2026 18:30"
     }
   ],
   "lastUpdateStatus": {
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T17:15:48.192Z"
+    "at": "2026-11-24T17:31:04.237Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
