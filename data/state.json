@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-24T22:30:58.585Z",
+  "lastUpdated": "2026-11-24T22:46:01.853Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 85,
+      "progressPercent": 86,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 85,
+      "progressPercent": 86,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-25T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,20 +45,20 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 73,
       "start": "2026-11-24T10:20:00+02:00",
-      "restore": "2026-11-24T23:59:00+02:00",
+      "restore": "2026-11-25T06:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "24.11.2026 10:20",
-      "rawRestore": "24.11.2026 23:59"
+      "rawRestore": "25.11.2026 06:00"
     },
     {
       "id": "hugzuz",
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66",
       "partial": false,
-      "progressPercent": 27,
+      "progressPercent": 29,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T10:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-24T22:30:58.585Z"
+    "at": "2026-11-24T22:46:01.853Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
