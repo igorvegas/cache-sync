@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T16:16:02.008Z",
+  "lastUpdated": "2026-11-25T16:31:00.004Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -28,8 +28,21 @@
       "rawRestore": "26.11.2026 06:00"
     },
     {
-      "id": "1q2mbr",
+      "id": "zy7o2c",
       "number": 1,
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
+      "partial": false,
+      "progressPercent": 83,
+      "start": "2026-11-23T10:55:00+02:00",
+      "restore": "2026-11-26T06:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 10:55",
+      "rawRestore": "26.11.2026 06:00"
+    },
+    {
+      "id": "1q2mbr",
+      "number": 2,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
       "progressPercent": 83,
@@ -45,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 94,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +71,7 @@
       "number": 2,
       "address": "ЛЮТЕРАНСЬКИЙ ПРОВ., +пер.Топольского+ул.Дворянская часть",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 94,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -67,11 +80,11 @@
       "rawRestore": "25.11.2026 20:00"
     },
     {
-      "id": "1utg69a",
+      "id": "1eg10x6",
       "number": 1,
-      "address": "ФОНТАНКА СЕЛО, Н.Дофиновка",
+      "address": "ЧОРНОМОРСЬКЕ СМТ, Вапнярка.Григорьевка",
       "partial": false,
-      "progressPercent": 60,
+      "progressPercent": 62,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -80,11 +93,11 @@
       "rawRestore": "25.11.2026 23:55"
     },
     {
-      "id": "1eg10x6",
+      "id": "1utg69a",
       "number": 2,
-      "address": "ЧОРНОМОРСЬКЕ СМТ, Вапнярка.Григорьевка",
+      "address": "ФОНТАНКА СЕЛО, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 60,
+      "progressPercent": 62,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +110,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 83,
+      "progressPercent": 85,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +124,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-25T16:16:02.008Z"
+    "at": "2026-11-25T16:31:00.004Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
