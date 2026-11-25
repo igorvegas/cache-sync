@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T10:01:10.243Z",
+  "lastUpdated": "2026-11-25T10:15:58.308Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 125-148",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 24,
       "start": "2026-11-25T10:30:00+02:00",
       "restore": "2026-11-25T18:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 80,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T16:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "ФОНТАНКА СЕЛО, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 16,
+      "progressPercent": 17,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Вапнярка.Григорьевка",
       "partial": false,
-      "progressPercent": 16,
+      "progressPercent": 17,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 23,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-25T10:01:10.243Z"
+    "at": "2026-11-25T10:15:58.308Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
