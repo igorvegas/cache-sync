@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T09:15:54.652Z",
+  "lastUpdated": "2026-11-25T09:31:07.158Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "СВЯТОСЛАВА РІХТЕРА ВУЛ., 125-148",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 14,
       "start": "2026-11-25T10:30:00+02:00",
       "restore": "2026-11-25T18:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 24,34,36,38",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 88,
       "start": "2026-11-24T10:20:00+02:00",
       "restore": "2026-11-25T15:00:00+02:00",
       "restoreKind": "planned",
@@ -54,11 +54,11 @@
       "rawRestore": "25.11.2026 15:00"
     },
     {
-      "id": "hugzuz",
+      "id": "1cgi5ve",
       "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66",
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 75,
+      "progressPercent": 76,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T16:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "ФОНТАНКА СЕЛО, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 12,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Вапнярка.Григорьевка",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 12,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 13,
+      "progressPercent": 15,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-25T09:15:54.652Z"
+    "at": "2026-11-25T09:31:07.158Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
