@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T16:46:39.333Z",
+  "lastUpdated": "2026-11-25T17:01:17.608Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
       "partial": false,
-      "progressPercent": 83,
+      "progressPercent": 84,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
-      "progressPercent": 83,
+      "progressPercent": 84,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T06:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 95,
+      "progressPercent": 96,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 2,
       "address": "ЛЮТЕРАНСЬКИЙ ПРОВ., +пер.Топольского+ул.Дворянская часть",
       "partial": false,
-      "progressPercent": 95,
+      "progressPercent": 96,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ЧОРНОМОРСЬКЕ СМТ, Вапнярка.Григорьевка",
       "partial": false,
-      "progressPercent": 64,
+      "progressPercent": 65,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "ФОНТАНКА СЕЛО, Н.Дофиновка",
       "partial": false,
-      "progressPercent": 64,
+      "progressPercent": 65,
       "start": "2026-11-25T09:50:00+02:00",
       "restore": "2026-11-25T23:55:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 88,
+      "progressPercent": 90,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-25T20:00:00+02:00",
       "restoreKind": "planned",
@@ -124,7 +124,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-25T16:46:39.333Z"
+    "at": "2026-11-25T17:01:17.608Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
