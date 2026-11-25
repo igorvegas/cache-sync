@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T06:16:11.119Z",
+  "lastUpdated": "2026-11-25T06:31:33.108Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 89,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-25T10:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-25T06:16:11.119Z"
+    "at": "2026-11-25T06:31:33.108Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
