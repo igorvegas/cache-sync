@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T09:45:54.414Z",
+  "lastUpdated": "2026-11-26T10:01:24.786Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 85,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 2,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 85,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ШТАБНИЙ ПРОВ., Орлікова пров.частково",
       "partial": false,
-      "progressPercent": 2,
+      "progressPercent": 8,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -93,11 +93,11 @@
       "rawRestore": "26.11.2026 16:00"
     },
     {
-      "id": "1f1adr6",
+      "id": "4rx607",
       "number": 2,
-      "address": "КАНАТНА ВУЛ., Пироговська,Мариїнська, час",
+      "address": "КАНАТНА ВУЛ., Пироговська,Омельяновича-Павленко, час",
       "partial": false,
-      "progressPercent": 2,
+      "progressPercent": 8,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T09:45:54.414Z"
+    "at": "2026-11-26T10:01:24.786Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
