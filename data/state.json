@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T09:24:51.214Z",
+  "lastUpdated": "2026-11-26T09:45:54.414Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -54,21 +54,8 @@
       "rawRestore": "26.11.2026 14:00"
     },
     {
-      "id": "1cgi5ve",
-      "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
-      "partial": false,
-      "progressPercent": 84,
-      "start": "2026-11-24T21:00:00+02:00",
-      "restore": "2026-11-26T19:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "24.11.2026 21:00",
-      "rawRestore": "26.11.2026 19:00"
-    },
-    {
       "id": "r0xxzj",
-      "number": 2,
+      "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
       "progressPercent": 84,
@@ -80,11 +67,50 @@
       "rawRestore": "26.11.2026 19:00"
     },
     {
-      "id": "losby6",
-      "number": 1,
-      "address": "ЧИГИРИНСЬКА ВУЛ.,",
+      "id": "1cgi5ve",
+      "number": 2,
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 71,
+      "progressPercent": 84,
+      "start": "2026-11-24T21:00:00+02:00",
+      "restore": "2026-11-26T19:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "24.11.2026 21:00",
+      "rawRestore": "26.11.2026 19:00"
+    },
+    {
+      "id": "8vwyha",
+      "number": 1,
+      "address": "ШТАБНИЙ ПРОВ., Орлікова пров.частково",
+      "partial": false,
+      "progressPercent": 2,
+      "start": "2026-11-26T11:40:00+02:00",
+      "restore": "2026-11-26T16:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "26.11.2026 11:40",
+      "rawRestore": "26.11.2026 16:00"
+    },
+    {
+      "id": "1f1adr6",
+      "number": 2,
+      "address": "КАНАТНА ВУЛ., Пироговська,Мариїнська, час",
+      "partial": false,
+      "progressPercent": 2,
+      "start": "2026-11-26T11:40:00+02:00",
+      "restore": "2026-11-26T16:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "26.11.2026 11:40",
+      "rawRestore": "26.11.2026 16:00"
+    },
+    {
+      "id": "vetyps",
+      "number": 1,
+      "address": "УСАТОВО С/Т,",
+      "partial": false,
+      "progressPercent": 72,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -93,11 +119,11 @@
       "rawRestore": "26.11.2026 22:00"
     },
     {
-      "id": "vetyps",
+      "id": "losby6",
       "number": 2,
-      "address": "УСАТОВО С/Т,",
+      "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 71,
+      "progressPercent": 72,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T09:24:51.214Z"
+    "at": "2026-11-26T09:45:54.414Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
