@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T12:31:44.071Z",
+  "lastUpdated": "2026-11-26T12:45:48.624Z",
   "outages": [
     {
       "id": "1mefjja",
       "number": 1,
       "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
       "partial": true,
-      "progressPercent": 21,
+      "progressPercent": 27,
       "start": "2026-11-26T13:35:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -45,33 +45,33 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 96,
       "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-26T14:00:00+02:00",
+      "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "23.11.2026 10:55",
-      "rawRestore": "26.11.2026 14:00"
+      "rawRestore": "26.11.2026 18:00"
     },
     {
       "id": "1q2mbr",
       "number": 2,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 96,
       "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-26T14:00:00+02:00",
+      "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "23.11.2026 10:55",
-      "rawRestore": "26.11.2026 14:00"
+      "rawRestore": "26.11.2026 18:00"
     },
     {
       "id": "1cgi5ve",
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 90,
+      "progressPercent": 91,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 90,
+      "progressPercent": 91,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 1,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 80,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -136,7 +136,7 @@
       "number": 2,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 79,
+      "progressPercent": 80,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -149,7 +149,7 @@
       "number": 1,
       "address": "КНЯЗЯ ЯРОСЛАВА МУДРОГО ПРОСП., 30",
       "partial": false,
-      "progressPercent": 18,
+      "progressPercent": 25,
       "start": "2026-11-26T14:00:00+02:00",
       "restore": "2026-11-26T17:00:00+02:00",
       "restoreKind": "planned",
@@ -163,7 +163,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T12:31:44.071Z"
+    "at": "2026-11-26T12:45:48.624Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
