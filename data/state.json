@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T17:01:13.874Z",
+  "lastUpdated": "2026-11-26T17:31:09.642Z",
   "outages": [
     {
       "id": "1mefjja",
@@ -41,35 +41,9 @@
       "rawRestore": "26.11.2026 17:00"
     },
     {
-      "id": "1q2mbr",
+      "id": "1cgi5ve",
       "number": 1,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-26T16:30:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:55",
-      "rawRestore": "26.11.2026 16:30"
-    },
-    {
-      "id": "zy7o2c",
-      "number": 2,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-26T16:30:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "23.11.2026 10:55",
-      "rawRestore": "26.11.2026 16:30"
-    },
-    {
-      "id": "r0xxzj",
-      "number": 1,
-      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-24T21:00:00+02:00",
@@ -80,9 +54,9 @@
       "rawRestore": "26.11.2026 19:00"
     },
     {
-      "id": "1cgi5ve",
+      "id": "r0xxzj",
       "number": 2,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
+      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-24T21:00:00+02:00",
@@ -98,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T17:01:13.874Z"
+    "at": "2026-11-26T17:31:09.642Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
