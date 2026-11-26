@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T10:31:10.642Z",
+  "lastUpdated": "2026-11-26T10:45:47.908Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ШТАБНИЙ ПРОВ., Орлікова пров.частково",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 25,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "КАНАТНА ВУЛ., Пироговська,Омельяновича-Павленко, час",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 25,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T10:31:10.642Z"
+    "at": "2026-11-26T10:45:47.908Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
