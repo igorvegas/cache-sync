@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T14:01:13.883Z",
+  "lastUpdated": "2026-11-26T14:15:46.595Z",
   "outages": [
     {
       "id": "1mefjja",
       "number": 1,
       "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
       "partial": true,
-      "progressPercent": 55,
+      "progressPercent": 61,
       "start": "2026-11-26T13:35:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 98,
+      "progressPercent": 99,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 99,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 2,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -150,7 +150,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T14:01:13.883Z"
+    "at": "2026-11-26T14:15:46.595Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
