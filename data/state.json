@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T06:06:57.102Z",
+  "lastUpdated": "2026-11-26T06:15:52.354Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 93,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T11:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 92,
+      "progressPercent": 93,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T11:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 85,
+      "progressPercent": 86,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T12:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 85,
+      "progressPercent": 86,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T12:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T06:06:57.102Z"
+    "at": "2026-11-26T06:15:52.354Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
