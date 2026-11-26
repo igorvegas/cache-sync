@@ -1,25 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T18:31:03.685Z",
+  "lastUpdated": "2026-11-26T19:01:19.816Z",
   "outages": [
-    {
-      "id": "1mefjja",
-      "number": 1,
-      "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
-      "partial": true,
-      "progressPercent": 100,
-      "start": "2026-11-26T13:35:00+02:00",
-      "restore": "2026-11-26T17:48:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "26.11.2026 13:35",
-      "rawRestore": "26.11.2026 17:48"
-    },
     {
       "id": "1cgi5ve",
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +19,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T18:31:03.685Z"
+    "at": "2026-11-26T19:01:19.816Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
