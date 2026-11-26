@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-11-26T15:45:52.201Z",
+  "lastUpdated": "2026-11-26T16:01:15.024Z",
   "outages": [
     {
       "id": "1mefjja",
       "number": 1,
       "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
       "partial": true,
-      "progressPercent": 95,
+      "progressPercent": 100,
       "start": "2026-11-26T13:35:00+02:00",
-      "restore": "2026-11-26T18:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-26T17:48:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "26.11.2026 13:35",
-      "rawRestore": "26.11.2026 18:00"
+      "rawRestore": "26.11.2026 17:48"
     },
     {
       "id": "xk5fz7",
@@ -67,24 +67,11 @@
       "rawRestore": "26.11.2026 16:30"
     },
     {
-      "id": "1cgi5ve",
-      "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
-      "partial": false,
-      "progressPercent": 97,
-      "start": "2026-11-24T21:00:00+02:00",
-      "restore": "2026-11-26T19:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "24.11.2026 21:00",
-      "rawRestore": "26.11.2026 19:00"
-    },
-    {
       "id": "r0xxzj",
-      "number": 2,
+      "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -93,30 +80,17 @@
       "rawRestore": "26.11.2026 19:00"
     },
     {
-      "id": "vetyps",
-      "number": 1,
-      "address": "УСАТОВО С/Т,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-25T10:00:00+02:00",
-      "restore": "2026-11-26T15:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "25.11.2026 10:00",
-      "rawRestore": "26.11.2026 15:00"
-    },
-    {
-      "id": "losby6",
+      "id": "1cgi5ve",
       "number": 2,
-      "address": "ЧИГИРИНСЬКА ВУЛ.,",
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-25T10:00:00+02:00",
-      "restore": "2026-11-26T15:00:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "25.11.2026 10:00",
-      "rawRestore": "26.11.2026 15:00"
+      "progressPercent": 98,
+      "start": "2026-11-24T21:00:00+02:00",
+      "restore": "2026-11-26T19:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "24.11.2026 21:00",
+      "rawRestore": "26.11.2026 19:00"
     }
   ],
   "lastUpdateStatus": {
@@ -124,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T15:45:52.201Z"
+    "at": "2026-11-26T16:01:15.024Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
