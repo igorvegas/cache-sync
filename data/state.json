@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T16:15:48.008Z",
+  "lastUpdated": "2026-11-26T16:31:02.662Z",
   "outages": [
     {
       "id": "1mefjja",
@@ -71,7 +71,7 @@
       "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 99,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 2,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 99,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -98,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T16:15:48.008Z"
+    "at": "2026-11-26T16:31:02.662Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
