@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T11:45:46.592Z",
+  "lastUpdated": "2026-11-26T12:01:38.766Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 77,
+      "progressPercent": 78,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 2,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 77,
+      "progressPercent": 78,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T11:45:46.592Z"
+    "at": "2026-11-26T12:01:38.766Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
