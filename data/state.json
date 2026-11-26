@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T15:01:13.761Z",
+  "lastUpdated": "2026-11-26T15:15:49.512Z",
   "outages": [
     {
       "id": "1mefjja",
       "number": 1,
       "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
       "partial": true,
-      "progressPercent": 78,
+      "progressPercent": 83,
       "start": "2026-11-26T13:35:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -124,7 +124,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T15:01:13.761Z"
+    "at": "2026-11-26T15:15:49.512Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
