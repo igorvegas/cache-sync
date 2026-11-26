@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T16:01:15.024Z",
+  "lastUpdated": "2026-11-26T16:15:48.008Z",
   "outages": [
     {
       "id": "1mefjja",
@@ -21,11 +21,11 @@
       "partial": true,
       "progressPercent": 100,
       "start": "2026-11-21T17:20:00+02:00",
-      "restore": "2026-11-26T18:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-26T17:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "21.11.2026 17:20",
-      "rawRestore": "26.11.2026 18:00"
+      "rawRestore": "26.11.2026 17:00"
     },
     {
       "id": "1c15eey",
@@ -34,16 +34,16 @@
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-21T17:20:00+02:00",
-      "restore": "2026-11-26T18:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-26T17:00:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "21.11.2026 17:20",
-      "rawRestore": "26.11.2026 18:00"
+      "rawRestore": "26.11.2026 17:00"
     },
     {
-      "id": "zy7o2c",
+      "id": "1q2mbr",
       "number": 1,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-23T10:55:00+02:00",
@@ -54,9 +54,9 @@
       "rawRestore": "26.11.2026 16:30"
     },
     {
-      "id": "1q2mbr",
+      "id": "zy7o2c",
       "number": 2,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-23T10:55:00+02:00",
@@ -98,7 +98,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T16:01:15.024Z"
+    "at": "2026-11-26T16:15:48.008Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
