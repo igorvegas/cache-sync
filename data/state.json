@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T11:01:21.912Z",
+  "lastUpdated": "2026-11-26T11:16:21.469Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 88,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 2,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 87,
+      "progressPercent": 88,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T19:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ШТАБНИЙ ПРОВ., Орлікова пров.частково",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 37,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "КАНАТНА ВУЛ., Пироговська,Омельяновича-Павленко, час",
       "partial": false,
-      "progressPercent": 31,
+      "progressPercent": 37,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -110,7 +110,7 @@
       "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 75,
+      "progressPercent": 76,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -123,7 +123,7 @@
       "number": 2,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 75,
+      "progressPercent": 76,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T11:01:21.912Z"
+    "at": "2026-11-26T11:16:21.469Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
