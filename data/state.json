@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T11:16:21.469Z",
+  "lastUpdated": "2026-11-26T11:31:02.866Z",
   "outages": [
     {
       "id": "xk5fz7",
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 99,
+      "progressPercent": 100,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T14:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 99,
+      "progressPercent": 100,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T14:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ШТАБНИЙ ПРОВ., Орлікова пров.частково",
       "partial": false,
-      "progressPercent": 37,
+      "progressPercent": 43,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "КАНАТНА ВУЛ., Пироговська,Омельяновича-Павленко, час",
       "partial": false,
-      "progressPercent": 37,
+      "progressPercent": 43,
       "start": "2026-11-26T11:40:00+02:00",
       "restore": "2026-11-26T16:00:00+02:00",
       "restoreKind": "planned",
@@ -137,7 +137,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T11:16:21.469Z"
+    "at": "2026-11-26T11:31:02.866Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
