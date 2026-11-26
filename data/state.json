@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T07:31:00.026Z",
+  "lastUpdated": "2026-11-26T07:45:48.788Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 97,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T11:00:00+02:00",
       "restoreKind": "planned",
@@ -71,7 +71,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 97,
       "start": "2026-11-24T21:00:00+02:00",
       "restore": "2026-11-26T11:00:00+02:00",
       "restoreKind": "planned",
@@ -84,26 +84,26 @@
       "number": 1,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 90,
+      "progressPercent": 66,
       "start": "2026-11-25T10:00:00+02:00",
-      "restore": "2026-11-26T12:00:00+02:00",
+      "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "25.11.2026 10:00",
-      "rawRestore": "26.11.2026 12:00"
+      "rawRestore": "26.11.2026 22:00"
     },
     {
       "id": "vetyps",
       "number": 2,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 90,
+      "progressPercent": 66,
       "start": "2026-11-25T10:00:00+02:00",
-      "restore": "2026-11-26T12:00:00+02:00",
+      "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "25.11.2026 10:00",
-      "rawRestore": "26.11.2026 12:00"
+      "rawRestore": "26.11.2026 22:00"
     }
   ],
   "lastUpdateStatus": {
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T07:31:00.026Z"
+    "at": "2026-11-26T07:45:48.788Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
