@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-26T12:45:48.624Z",
+  "lastUpdated": "2026-11-26T13:01:17.732Z",
   "outages": [
     {
       "id": "1mefjja",
       "number": 1,
       "address": "ЛІТАКОВА ВУЛ., Самарська,Просьолочна",
       "partial": true,
-      "progressPercent": 27,
+      "progressPercent": 33,
       "start": "2026-11-26T13:35:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ЛЕН. СЕЛИЩЕ ВУЛ.",
       "partial": true,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "АКАДЕМІКА ГАРКАВОГО ВУЛ.,",
       "partial": false,
-      "progressPercent": 97,
+      "progressPercent": 98,
       "start": "2026-11-21T17:20:00+02:00",
       "restore": "2026-11-26T18:00:00+02:00",
       "restoreKind": "planned",
@@ -41,21 +41,8 @@
       "rawRestore": "26.11.2026 18:00"
     },
     {
-      "id": "zy7o2c",
-      "number": 1,
-      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
-      "partial": false,
-      "progressPercent": 96,
-      "start": "2026-11-23T10:55:00+02:00",
-      "restore": "2026-11-26T18:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "23.11.2026 10:55",
-      "rawRestore": "26.11.2026 18:00"
-    },
-    {
       "id": "1q2mbr",
-      "number": 2,
+      "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
       "progressPercent": 96,
@@ -67,9 +54,22 @@
       "rawRestore": "26.11.2026 18:00"
     },
     {
-      "id": "1cgi5ve",
+      "id": "zy7o2c",
+      "number": 2,
+      "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
+      "partial": false,
+      "progressPercent": 96,
+      "start": "2026-11-23T10:55:00+02:00",
+      "restore": "2026-11-26T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "23.11.2026 10:55",
+      "rawRestore": "26.11.2026 18:00"
+    },
+    {
+      "id": "r0xxzj",
       "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
+      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
       "partial": false,
       "progressPercent": 91,
       "start": "2026-11-24T21:00:00+02:00",
@@ -80,9 +80,9 @@
       "rawRestore": "26.11.2026 19:00"
     },
     {
-      "id": "r0xxzj",
+      "id": "1cgi5ve",
       "number": 2,
-      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., 59",
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., 56-66 + Торговая частично.",
       "partial": false,
       "progressPercent": 91,
       "start": "2026-11-24T21:00:00+02:00",
@@ -119,24 +119,11 @@
       "rawRestore": "26.11.2026 13:30"
     },
     {
-      "id": "losby6",
-      "number": 1,
-      "address": "ЧИГИРИНСЬКА ВУЛ.,",
-      "partial": false,
-      "progressPercent": 80,
-      "start": "2026-11-25T10:00:00+02:00",
-      "restore": "2026-11-26T22:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "25.11.2026 10:00",
-      "rawRestore": "26.11.2026 22:00"
-    },
-    {
       "id": "vetyps",
-      "number": 2,
+      "number": 1,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 80,
+      "progressPercent": 81,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -145,17 +132,17 @@
       "rawRestore": "26.11.2026 22:00"
     },
     {
-      "id": "y6c9ly",
-      "number": 1,
-      "address": "КНЯЗЯ ЯРОСЛАВА МУДРОГО ПРОСП., 30",
+      "id": "losby6",
+      "number": 2,
+      "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 25,
-      "start": "2026-11-26T14:00:00+02:00",
-      "restore": "2026-11-26T17:00:00+02:00",
+      "progressPercent": 81,
+      "start": "2026-11-25T10:00:00+02:00",
+      "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
-      "rawStart": "26.11.2026 14:00",
-      "rawRestore": "26.11.2026 17:00"
+      "rawStart": "25.11.2026 10:00",
+      "rawRestore": "26.11.2026 22:00"
     }
   ],
   "lastUpdateStatus": {
@@ -163,7 +150,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T12:45:48.624Z"
+    "at": "2026-11-26T13:01:17.732Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
