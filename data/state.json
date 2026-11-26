@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T08:30:58.116Z",
+  "lastUpdated": "2026-11-26T08:46:15.688Z",
   "outages": [
     {
       "id": "xk5fz7",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 34/36",
       "partial": false,
-      "progressPercent": 95,
+      "progressPercent": 96,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 2,
       "address": "АКАДЕМIКА САХАРОВА ВУЛ., 3 с буквами(Лески)",
       "partial": false,
-      "progressPercent": 95,
+      "progressPercent": 96,
       "start": "2026-11-23T10:55:00+02:00",
       "restore": "2026-11-26T14:00:00+02:00",
       "restoreKind": "planned",
@@ -84,7 +84,7 @@
       "number": 1,
       "address": "ЧИГИРИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 68,
+      "progressPercent": 69,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -97,7 +97,7 @@
       "number": 2,
       "address": "УСАТОВО С/Т,",
       "partial": false,
-      "progressPercent": 68,
+      "progressPercent": 69,
       "start": "2026-11-25T10:00:00+02:00",
       "restore": "2026-11-26T22:00:00+02:00",
       "restoreKind": "planned",
@@ -111,7 +111,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T08:30:58.116Z"
+    "at": "2026-11-26T08:46:15.688Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
