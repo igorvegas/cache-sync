@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T13:31:02.538Z",
+  "lastUpdated": "2026-11-27T13:45:48.132Z",
   "outages": [
     {
       "id": "sr6wwa",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова,Італійський б-р",
       "partial": false,
-      "progressPercent": 89,
+      "progressPercent": 95,
       "start": "2026-11-27T11:40:00+02:00",
       "restore": "2026-11-27T16:00:00+02:00",
       "restoreKind": "planned",
@@ -58,26 +58,13 @@
       "number": 1,
       "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
       "partial": false,
-      "progressPercent": 66,
+      "progressPercent": 71,
       "start": "2026-11-27T12:40:00+02:00",
       "restore": "2026-11-27T17:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "27.11.2026 12:40",
       "rawRestore": "27.11.2026 17:00"
-    },
-    {
-      "id": "9qmp1b",
-      "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T11:00:00+02:00",
-      "restore": "2026-11-27T12:44:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 11:00",
-      "rawRestore": "27.11.2026 12:44"
     }
   ],
   "lastUpdateStatus": {
@@ -85,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T13:31:02.538Z"
+    "at": "2026-11-27T13:45:48.132Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
