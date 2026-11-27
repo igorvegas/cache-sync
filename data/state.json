@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-27T11:15:48.109Z",
+  "lastUpdated": "2026-11-27T11:31:06.904Z",
   "outages": [
     {
       "id": "sr6wwa",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 34,
+      "progressPercent": 38,
       "start": "2026-11-27T10:47:00+02:00",
       "restore": "2026-11-27T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ПОЛУНИЧНИЙ ПРОВ., ЧАСТКОВО Фонтанська дор, 51-57",
       "partial": false,
-      "progressPercent": 71,
+      "progressPercent": 81,
       "start": "2026-11-27T11:30:00+02:00",
       "restore": "2026-11-27T14:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "БАЛТИМОРСЬКА ВУЛ., 16,20",
       "partial": false,
-      "progressPercent": 71,
+      "progressPercent": 81,
       "start": "2026-11-27T11:30:00+02:00",
       "restore": "2026-11-27T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова,Італійський б-р",
       "partial": false,
-      "progressPercent": 37,
+      "progressPercent": 43,
       "start": "2026-11-27T11:40:00+02:00",
       "restore": "2026-11-27T16:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
       "partial": false,
-      "progressPercent": 14,
+      "progressPercent": 20,
       "start": "2026-11-27T12:40:00+02:00",
       "restore": "2026-11-27T17:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T11:15:48.109Z"
+    "at": "2026-11-27T11:31:06.904Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
