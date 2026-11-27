@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T14:46:11.916Z",
+  "lastUpdated": "2026-11-27T15:01:12.160Z",
   "outages": [
     {
       "id": "sr6wwa",
@@ -13,32 +13,6 @@
       "restoreColor": null,
       "rawStart": "27.11.2026 10:47",
       "rawRestore": "27.11.2026 14:42"
-    },
-    {
-      "id": "1x0uoja",
-      "number": 1,
-      "address": "ПОЛУНИЧНИЙ ПРОВ., ЧАСТКОВО Фонтанська дор, 51-57",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T11:30:00+02:00",
-      "restore": "2026-11-27T13:50:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 11:30",
-      "rawRestore": "27.11.2026 13:50"
-    },
-    {
-      "id": "mrr42y",
-      "number": 2,
-      "address": "БАЛТИМОРСЬКА ВУЛ., 16,20",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T11:30:00+02:00",
-      "restore": "2026-11-27T13:50:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 11:30",
-      "rawRestore": "27.11.2026 13:50"
     },
     {
       "id": "1tz8qbm",
@@ -58,13 +32,13 @@
       "number": 1,
       "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
       "partial": false,
-      "progressPercent": 95,
+      "progressPercent": 100,
       "start": "2026-11-27T12:40:00+02:00",
-      "restore": "2026-11-27T17:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-27T16:50:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "27.11.2026 12:40",
-      "rawRestore": "27.11.2026 17:00"
+      "rawRestore": "27.11.2026 16:50"
     }
   ],
   "lastUpdateStatus": {
@@ -72,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T14:46:11.916Z"
+    "at": "2026-11-27T15:01:12.160Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
