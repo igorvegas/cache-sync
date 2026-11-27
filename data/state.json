@@ -1,25 +1,12 @@
 {
-  "lastUpdated": "2026-11-27T17:45:52.405Z",
+  "lastUpdated": "2026-11-27T18:01:13.914Z",
   "outages": [
-    {
-      "id": "1ij07wn",
-      "number": 1,
-      "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T12:40:00+02:00",
-      "restore": "2026-11-27T16:50:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 12:40",
-      "rawRestore": "27.11.2026 16:50"
-    },
     {
       "id": "7domwl",
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 8,
+      "progressPercent": 15,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-27T23:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +19,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 13,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T03:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +32,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., пров. Топольського",
       "partial": false,
-      "progressPercent": 10,
+      "progressPercent": 13,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T03:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T17:45:52.405Z"
+    "at": "2026-11-27T18:01:13.914Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
