@@ -1,19 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T15:45:49.171Z",
+  "lastUpdated": "2026-11-27T17:30:59.897Z",
   "outages": [
-    {
-      "id": "1tz8qbm",
-      "number": 1,
-      "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова,Італійський б-р",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T11:40:00+02:00",
-      "restore": "2026-11-27T16:30:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 11:40",
-      "rawRestore": "27.11.2026 16:30"
-    },
     {
       "id": "1ij07wn",
       "number": 1,
@@ -26,6 +13,19 @@
       "restoreColor": null,
       "rawStart": "27.11.2026 12:40",
       "rawRestore": "27.11.2026 16:50"
+    },
+    {
+      "id": "17uxxl3",
+      "number": 1,
+      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
+      "partial": false,
+      "progressPercent": 6,
+      "start": "2026-11-27T19:00:00+02:00",
+      "restore": "2026-11-28T03:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "27.11.2026 19:00",
+      "rawRestore": "28.11.2026 03:00"
     }
   ],
   "lastUpdateStatus": {
@@ -33,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T15:45:49.171Z"
+    "at": "2026-11-27T17:30:59.897Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
