@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T13:15:50.325Z",
+  "lastUpdated": "2026-11-27T13:31:02.538Z",
   "outages": [
     {
       "id": "sr6wwa",
@@ -45,7 +45,7 @@
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова,Італійський б-р",
       "partial": false,
-      "progressPercent": 83,
+      "progressPercent": 89,
       "start": "2026-11-27T11:40:00+02:00",
       "restore": "2026-11-27T16:00:00+02:00",
       "restoreKind": "planned",
@@ -58,7 +58,7 @@
       "number": 1,
       "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
       "partial": false,
-      "progressPercent": 60,
+      "progressPercent": 66,
       "start": "2026-11-27T12:40:00+02:00",
       "restore": "2026-11-27T17:00:00+02:00",
       "restoreKind": "planned",
@@ -85,7 +85,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T13:15:50.325Z"
+    "at": "2026-11-27T13:31:02.538Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
