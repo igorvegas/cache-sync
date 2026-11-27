@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-11-26T22:31:23.203Z",
-  "outages": [],
+  "lastUpdated": "2026-11-27T09:01:22.691Z",
+  "outages": [
+    {
+      "id": "sr6wwa",
+      "number": 1,
+      "address": "БАЛКІВСЬКА ВУЛ.,",
+      "partial": false,
+      "progressPercent": 3,
+      "start": "2026-11-27T10:47:00+02:00",
+      "restore": "2026-11-27T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "27.11.2026 10:47",
+      "rawRestore": "27.11.2026 18:00"
+    }
+  ],
   "lastUpdateStatus": {
     "status": "parsed",
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-26T22:31:23.203Z"
+    "at": "2026-11-27T09:01:22.691Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
