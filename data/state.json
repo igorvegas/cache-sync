@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-27T10:31:00.411Z",
+  "lastUpdated": "2026-11-27T10:45:53.551Z",
   "outages": [
     {
       "id": "sr6wwa",
       "number": 1,
       "address": "БАЛКІВСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 24,
+      "progressPercent": 27,
       "start": "2026-11-27T10:47:00+02:00",
       "restore": "2026-11-27T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "ПОЛУНИЧНИЙ ПРОВ., ЧАСТКОВО Фонтанська дор, 51-57",
       "partial": false,
-      "progressPercent": 41,
+      "progressPercent": 51,
       "start": "2026-11-27T11:30:00+02:00",
       "restore": "2026-11-27T14:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "БАЛТИМОРСЬКА ВУЛ., 16,20",
       "partial": false,
-      "progressPercent": 41,
+      "progressPercent": 51,
       "start": "2026-11-27T11:30:00+02:00",
       "restore": "2026-11-27T14:00:00+02:00",
       "restoreKind": "planned",
@@ -45,13 +45,26 @@
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова,Італійський б-р",
       "partial": false,
-      "progressPercent": 20,
+      "progressPercent": 25,
       "start": "2026-11-27T11:40:00+02:00",
       "restore": "2026-11-27T16:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "27.11.2026 11:40",
       "rawRestore": "27.11.2026 16:00"
+    },
+    {
+      "id": "1ij07wn",
+      "number": 1,
+      "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
+      "partial": false,
+      "progressPercent": 2,
+      "start": "2026-11-27T12:40:00+02:00",
+      "restore": "2026-11-27T17:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "27.11.2026 12:40",
+      "rawRestore": "27.11.2026 17:00"
     }
   ],
   "lastUpdateStatus": {
@@ -59,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T10:31:00.411Z"
+    "at": "2026-11-27T10:45:53.551Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
