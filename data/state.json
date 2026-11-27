@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T14:31:14.762Z",
+  "lastUpdated": "2026-11-27T14:46:11.916Z",
   "outages": [
     {
       "id": "sr6wwa",
@@ -47,18 +47,18 @@
       "partial": false,
       "progressPercent": 100,
       "start": "2026-11-27T11:40:00+02:00",
-      "restore": "2026-11-27T16:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-27T16:30:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "27.11.2026 11:40",
-      "rawRestore": "27.11.2026 16:00"
+      "rawRestore": "27.11.2026 16:30"
     },
     {
       "id": "1ij07wn",
       "number": 1,
       "address": "АДМІРАЛЬСЬКИЙ ПРОСП., 32",
       "partial": false,
-      "progressPercent": 89,
+      "progressPercent": 95,
       "start": "2026-11-27T12:40:00+02:00",
       "restore": "2026-11-27T17:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-27T14:31:14.762Z"
+    "at": "2026-11-27T14:46:11.916Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
