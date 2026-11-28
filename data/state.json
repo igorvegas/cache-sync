@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-28T13:31:00.930Z",
+  "lastUpdated": "2026-11-28T13:45:57.482Z",
   "outages": [
     {
       "id": "16prfpt",
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 29,
+      "progressPercent": 36,
       "start": "2026-11-28T14:30:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 29,
+      "progressPercent": 36,
       "start": "2026-11-28T14:30:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 66,
+      "progressPercent": 70,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,20 @@
       "number": 1,
       "address": "УКРАЇНСЬКИХ ГЕРОЇВ ПРОСП., част.Святослава Караванського част.",
       "partial": false,
-      "progressPercent": 12,
+      "progressPercent": 21,
+      "start": "2026-11-28T15:10:00+02:00",
+      "restore": "2026-11-28T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "28.11.2026 15:10",
+      "rawRestore": "28.11.2026 18:00"
+    },
+    {
+      "id": "1rqgal",
+      "number": 2,
+      "address": "НІНИ СТРОКАТОЇ ВУЛ., част.,Рішельєвська част.,Італійська част",
+      "partial": false,
+      "progressPercent": 21,
       "start": "2026-11-28T15:10:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T13:31:00.930Z"
+    "at": "2026-11-28T13:45:57.482Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
