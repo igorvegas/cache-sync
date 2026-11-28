@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-28T08:45:48.242Z",
+  "lastUpdated": "2026-11-28T09:01:39.715Z",
   "outages": [
     {
       "id": "1gwpkx1",
       "number": 1,
       "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 100,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "КАНАТНА ВУЛ., 81-87,Орлікова пров.",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 100,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
@@ -41,30 +41,17 @@
       "rawRestore": "28.11.2026 08:10"
     },
     {
-      "id": "w884i",
-      "number": 2,
-      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., пров. Топольського",
+      "id": "j212w2",
+      "number": 1,
+      "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:00:00+02:00",
-      "restore": "2026-11-28T08:10:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:00",
-      "rawRestore": "28.11.2026 08:10"
-    },
-    {
-      "id": "1w9mk2w",
-      "number": 3,
-      "address": "НІЖИНСЬКА ВУЛ.,",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:00:00+02:00",
-      "restore": "2026-11-28T08:10:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:00",
-      "rawRestore": "28.11.2026 08:10"
+      "progressPercent": 5,
+      "start": "2026-11-28T10:40:00+02:00",
+      "restore": "2026-11-28T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "28.11.2026 10:40",
+      "rawRestore": "28.11.2026 18:00"
     }
   ],
   "lastUpdateStatus": {
@@ -72,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T08:45:48.242Z"
+    "at": "2026-11-28T09:01:39.715Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
