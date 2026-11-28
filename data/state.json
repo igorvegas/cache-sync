@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-28T01:01:39.980Z",
+  "lastUpdated": "2026-11-28T01:15:47.725Z",
   "outages": [
     {
       "id": "7domwl",
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 72,
+      "progressPercent": 74,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T06:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
       "partial": false,
-      "progressPercent": 73,
+      "progressPercent": 75,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T06:00:00+02:00",
       "restoreKind": "planned",
@@ -32,7 +32,7 @@
       "number": 2,
       "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., пров. Топольського",
       "partial": false,
-      "progressPercent": 73,
+      "progressPercent": 75,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T06:00:00+02:00",
       "restoreKind": "planned",
@@ -45,7 +45,7 @@
       "number": 3,
       "address": "НІЖИНСЬКА ВУЛ.,",
       "partial": false,
-      "progressPercent": 73,
+      "progressPercent": 75,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T06:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T01:01:39.980Z"
+    "at": "2026-11-28T01:15:47.725Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
