@@ -1,51 +1,38 @@
 {
-  "lastUpdated": "2026-11-28T09:01:39.715Z",
+  "lastUpdated": "2026-11-28T09:15:48.487Z",
   "outages": [
     {
       "id": "1gwpkx1",
       "number": 1,
       "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 85,
       "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T11:00:00+02:00",
+      "restore": "2026-11-28T14:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 11:00"
+      "rawRestore": "28.11.2026 14:00"
     },
     {
       "id": "345h6b",
       "number": 2,
       "address": "КАНАТНА ВУЛ., 81-87,Орлікова пров.",
       "partial": false,
-      "progressPercent": 100,
+      "progressPercent": 85,
       "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T11:00:00+02:00",
+      "restore": "2026-11-28T14:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 11:00"
-    },
-    {
-      "id": "17uxxl3",
-      "number": 1,
-      "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:00:00+02:00",
-      "restore": "2026-11-28T08:10:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:00",
-      "rawRestore": "28.11.2026 08:10"
+      "rawRestore": "28.11.2026 14:00"
     },
     {
       "id": "j212w2",
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 5,
+      "progressPercent": 8,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T09:01:39.715Z"
+    "at": "2026-11-28T09:15:48.487Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
