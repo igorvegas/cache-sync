@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-11-28T11:15:46.120Z",
+  "lastUpdated": "2026-11-28T11:31:07.999Z",
   "outages": [
     {
       "id": "1gwpkx1",
       "number": 1,
       "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T14:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-28T13:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 14:00"
+      "rawRestore": "28.11.2026 13:15"
     },
     {
       "id": "345h6b",
       "number": 2,
       "address": "КАНАТНА ВУЛ., 81-87,Орлікова пров.",
       "partial": false,
-      "progressPercent": 96,
+      "progressPercent": 100,
       "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T14:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
+      "restore": "2026-11-28T13:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
       "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 14:00"
+      "rawRestore": "28.11.2026 13:15"
     },
     {
       "id": "j212w2",
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 35,
+      "progressPercent": 39,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T11:15:46.120Z"
+    "at": "2026-11-28T11:31:07.999Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
