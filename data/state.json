@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T12:15:58.762Z",
+  "lastUpdated": "2026-11-28T12:31:02.641Z",
   "outages": [
     {
       "id": "1gwpkx1",
@@ -32,7 +32,7 @@
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 49,
+      "progressPercent": 53,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +46,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T12:15:58.762Z"
+    "at": "2026-11-28T12:31:02.641Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
