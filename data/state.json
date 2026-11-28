@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-28T08:01:13.012Z",
+  "lastUpdated": "2026-11-28T08:15:51.828Z",
   "outages": [
     {
-      "id": "7qa5r1",
+      "id": "1gwpkx1",
       "number": 1,
-      "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ.,",
+      "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 94,
+      "progressPercent": 95,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
@@ -19,7 +19,7 @@
       "number": 2,
       "address": "КАНАТНА ВУЛ., 81-87,Орлікова пров.",
       "partial": false,
-      "progressPercent": 94,
+      "progressPercent": 95,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
@@ -72,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T08:01:13.012Z"
+    "at": "2026-11-28T08:15:51.828Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
