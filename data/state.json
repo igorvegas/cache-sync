@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T12:31:02.641Z",
+  "lastUpdated": "2026-11-28T12:45:49.196Z",
   "outages": [
     {
       "id": "1gwpkx1",
@@ -28,11 +28,37 @@
       "rawRestore": "28.11.2026 13:15"
     },
     {
+      "id": "7domwl",
+      "number": 3,
+      "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-27T19:30:00+02:00",
+      "restore": "2026-11-28T13:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "27.11.2026 19:30",
+      "rawRestore": "28.11.2026 13:15"
+    },
+    {
+      "id": "1gwpkx1",
+      "number": 4,
+      "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
+      "partial": false,
+      "progressPercent": 100,
+      "start": "2026-11-27T19:30:00+02:00",
+      "restore": "2026-11-28T13:15:00+02:00",
+      "restoreKind": "actual",
+      "restoreColor": null,
+      "rawStart": "27.11.2026 19:30",
+      "rawRestore": "28.11.2026 13:15"
+    },
+    {
       "id": "j212w2",
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 53,
+      "progressPercent": 56,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
@@ -46,7 +72,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T12:31:02.641Z"
+    "at": "2026-11-28T12:45:49.196Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
