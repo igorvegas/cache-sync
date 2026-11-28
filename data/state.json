@@ -1,51 +1,25 @@
 {
-  "lastUpdated": "2026-11-28T03:46:03.305Z",
+  "lastUpdated": "2026-11-28T04:01:07.903Z",
   "outages": [
     {
       "id": "7domwl",
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 68,
       "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T06:00:00+02:00",
+      "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 06:00"
+      "rawRestore": "28.11.2026 11:00"
     },
     {
       "id": "17uxxl3",
       "number": 1,
       "address": "НОВОСЕЛЬСЬКОГО ВУЛ., Топольской",
       "partial": false,
-      "progressPercent": 98,
-      "start": "2026-11-27T19:00:00+02:00",
-      "restore": "2026-11-28T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "27.11.2026 19:00",
-      "rawRestore": "28.11.2026 06:00"
-    },
-    {
-      "id": "w884i",
-      "number": 2,
-      "address": "СТАРОПОРТОФРАНКІВСЬКА ВУЛ., пров. Топольського",
-      "partial": false,
-      "progressPercent": 98,
-      "start": "2026-11-27T19:00:00+02:00",
-      "restore": "2026-11-28T06:00:00+02:00",
-      "restoreKind": "planned",
-      "restoreColor": "#60b6d9",
-      "rawStart": "27.11.2026 19:00",
-      "rawRestore": "28.11.2026 06:00"
-    },
-    {
-      "id": "1w9mk2w",
-      "number": 3,
-      "address": "НІЖИНСЬКА ВУЛ.,",
-      "partial": false,
-      "progressPercent": 98,
+      "progressPercent": 100,
       "start": "2026-11-27T19:00:00+02:00",
       "restore": "2026-11-28T06:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +33,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T03:46:03.305Z"
+    "at": "2026-11-28T04:01:07.903Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
