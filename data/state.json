@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-11-28T06:31:00.020Z",
+  "lastUpdated": "2026-11-28T06:46:22.226Z",
   "outages": [
     {
       "id": "7domwl",
       "number": 1,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 84,
+      "progressPercent": 86,
       "start": "2026-11-27T19:30:00+02:00",
       "restore": "2026-11-28T11:00:00+02:00",
       "restoreKind": "planned",
@@ -59,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T06:31:00.020Z"
+    "at": "2026-11-28T06:46:22.226Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
