@@ -1,69 +1,56 @@
 {
-  "lastUpdated": "2026-11-28T13:15:58.849Z",
+  "lastUpdated": "2026-11-28T13:31:00.930Z",
   "outages": [
     {
-      "id": "1gwpkx1",
+      "id": "16prfpt",
       "number": 1,
-      "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T13:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 13:15"
-    },
-    {
-      "id": "345h6b",
-      "number": 2,
-      "address": "КАНАТНА ВУЛ., 81-87,Орлікова пров.",
-      "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T13:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 13:15"
-    },
-    {
-      "id": "7domwl",
-      "number": 3,
       "address": "КАНАТНА ВУЛ., 81-87,пров.Орликова",
       "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T13:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 13:15"
+      "progressPercent": 29,
+      "start": "2026-11-28T14:30:00+02:00",
+      "restore": "2026-11-28T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "28.11.2026 14:30",
+      "rawRestore": "28.11.2026 18:00"
     },
     {
-      "id": "1gwpkx1",
-      "number": 4,
+      "id": "h7obr5",
+      "number": 2,
       "address": "МИХАЙЛА ОМЕЛЯНОВИЧА-ПАВЛЕНКА ВУЛ., Італійський б-р",
       "partial": false,
-      "progressPercent": 100,
-      "start": "2026-11-27T19:30:00+02:00",
-      "restore": "2026-11-28T13:15:00+02:00",
-      "restoreKind": "actual",
-      "restoreColor": null,
-      "rawStart": "27.11.2026 19:30",
-      "rawRestore": "28.11.2026 13:15"
+      "progressPercent": 29,
+      "start": "2026-11-28T14:30:00+02:00",
+      "restore": "2026-11-28T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "28.11.2026 14:30",
+      "rawRestore": "28.11.2026 18:00"
     },
     {
       "id": "j212w2",
       "number": 1,
       "address": "ДОВГА ВУЛ., частк,1 Тепличний пров.",
       "partial": false,
-      "progressPercent": 63,
+      "progressPercent": 66,
       "start": "2026-11-28T10:40:00+02:00",
       "restore": "2026-11-28T18:00:00+02:00",
       "restoreKind": "planned",
       "restoreColor": "#60b6d9",
       "rawStart": "28.11.2026 10:40",
+      "rawRestore": "28.11.2026 18:00"
+    },
+    {
+      "id": "al08ap",
+      "number": 1,
+      "address": "УКРАЇНСЬКИХ ГЕРОЇВ ПРОСП., част.Святослава Караванського част.",
+      "partial": false,
+      "progressPercent": 12,
+      "start": "2026-11-28T15:10:00+02:00",
+      "restore": "2026-11-28T18:00:00+02:00",
+      "restoreKind": "planned",
+      "restoreColor": "#60b6d9",
+      "rawStart": "28.11.2026 15:10",
       "rawRestore": "28.11.2026 18:00"
     }
   ],
@@ -72,7 +59,7 @@
     "ok": true,
     "code": 200,
     "message": null,
-    "at": "2026-11-28T13:15:58.849Z"
+    "at": "2026-11-28T13:31:00.930Z"
   },
   "meta": {
     "schemaVersion": "1.0.0"
